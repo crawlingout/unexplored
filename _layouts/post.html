@@ -33,7 +33,7 @@ layout: default
   {% if page.tags.size > 0 %}
     <div class="tags">tags: 
       {% for tag in page.tags %}
-        <a href="/tag/{{ tag }}" class="tag">{{ tag | replace:'-',' ' }}</a>{% if forloop.last != true %}, {% endif %}
+        <a href="/tag/{{ tag | replace:' ','-' | downcase }}" class="tag">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     </div>
     <div class="clear"></div>

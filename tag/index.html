@@ -7,7 +7,7 @@ title: unexplored paradises | browse
     <div id="tagslist">
     {% for tag in site.tags %}
         <div class="tag">
-            <a href="/tag/{{ tag | first }}" class="tag">{{ tag | first | replace:'-',' ' }}</a>
+            <a href="/tag/{{ tag | first | replace:' ','-' | downcase }}" class="tag">{{ tag | first }}</a>
         </div>
     {% endfor %}
     </div>

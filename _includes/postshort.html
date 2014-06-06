@@ -24,7 +24,7 @@
     {% if post.tags.size > 0 %}
         <div class="tags">
         {% for tag in post.tags %}
-            <a href="/tag/{{ tag }}" class="tag">{{ tag | replace:'-',' ' }}</a>{% if forloop.last != true %}, {% endif %}
+            <a href="/tag/{{ tag | replace:' ','-' | downcase }}" class="tag">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
         {% endfor %}
         </div>
     {% endif %}
