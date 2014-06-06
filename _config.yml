@@ -1,0 +1,6 @@
+name: unexplored paradises
+markdown: redcarpet
+description: "The photoblog dedicated to discovering unexplored beautiful places around the world."
+url: http://www.hoage.eu
+permalink: /:year/:month/:day/:title
+#fbappid: 654523471294675 # facebook app ID

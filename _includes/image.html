@@ -1,0 +1,23 @@
+<div class="img" {% if imagewidth < 800 %}style="width:{{imagewidth}}px;"{% endif %}>
+  {% if imagelink %}
+    <a href="{{ imagelink }}">
+      <img src="{{ image }}" width="{{ imagewidth }}" height="{{ imageheight }}" alt="{{ imagealt }}">
+    </a>
+  {% else %}
+    <a href="{{ image }}">
+      <img src="{{ image }}" width="{{ imagewidth }}" height="{{ imageheight }}" alt="{{ imagealt }}">
+    </a>
+  {% endif %}
+
+  {% if imageby %}
+    <div class="imageby">
+      {{ imageby }}
+    </div>
+  {% endif %}
+
+  {% if imagepindescription %}
+    <div class="pinterest_btn">
+        <a href="//www.pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&media={{ site.url }}{{ image }}&description={{ imagepindescription }}" data-pin-do="buttonPin" data-pin-config="beside" data-pin-color="white"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_white_20.png" /></a>
+    </div>
+  {% endif %}
+</div>

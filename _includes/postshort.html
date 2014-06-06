@@ -1,0 +1,36 @@
+<div class="postshort">
+    <div class="title">
+
+    {% if post.image %}
+        <a href="{{ post.url }}">
+            <img src="{{ post.image }}" width="800" height="{{ post.imageheight }}" alt="{{ post.imagealt }}">
+        </a>
+        <div class="bg"></div>
+        <h2 class="white"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        {% if post.imageby %}
+        <div class="imageby">
+          {{ post.imageby }}
+        </div>
+        {% endif %}
+    </div>
+
+    {% else %}
+        <h2 class="dark"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    </div>
+    {{ post.excerpt }}
+    {% endif %}
+
+
+    {% if post.tags.size > 0 %}
+        <div class="tags">
+        {% for tag in post.tags %}
+            <a href="/tag/{{ tag }}" class="tag">{{ tag | replace:'-',' ' }}</a>{% if forloop.last != true %}, {% endif %}
+        {% endfor %}
+        </div>
+    {% endif %}
+
+
+    <div class="continue"><a href="{{ post.url }}">Continue...</a></div>
+    <div class="clear"></div>
+
+</div>

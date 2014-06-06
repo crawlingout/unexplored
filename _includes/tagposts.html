@@ -1,0 +1,11 @@
+<div class="filtered">
+    <a class="filteredby back" href="/tag" title="back to the list of tags">
+        Filtered by tag: <strong>{{ page.tag | replace:'-',' ' }}</strong> architecture & interior design
+    </a>
+    <a href="/" class="close filteredby" title="remove the filter">&times;</a>
+    <div class="clear"></div>
+</div>
+
+{% for post in site.tags[page.tag] %}
+    {% include postshort.html %}
+{% endfor %}

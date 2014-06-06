@@ -1,17 +1,8 @@
-<!doctype html>
+---
+layout: default
+title: 'Discover beautiful places around the world' # if changed, change other places where this is used (detecting main page etc.)
+---
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-
-  <title>unexplored</title>
-  <meta name="description" content="The photoblog dedicated to discovering unexplored beautiful places around the world.">
-  <meta name="author" content="">
-
-</head>
-
-<body>
-    <h1>unexplored</h1>
-    <p>The photoblog dedicated to discovering unexplored beautiful places around the world.</p>
-</body>
-</html>
+{% for post in site.posts %}
+    {% include postshort.html %}
+{% endfor %}

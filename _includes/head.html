@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <link rel="shortcut icon" href="/i/favicon.ico" />
+
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ site.description }}" />
+    
+    <meta content="width=device-width" name="viewport">
+    <link type="text/css" rel="stylesheet" href="/css/style.css">
+    <link media="screen and (max-width: 1000px)" type="text/css" rel="stylesheet" href="/css/mobile.css">
+
+    <link href='/feed.xml' rel='alternate' type='application/atom+xml'>
+
+    <!-- Pinterest -->
+    <!--
+    <script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
+    {% if page.title == 'Discover beautiful places around the world' %}
+    <meta name="p:domain_verify" content="7e96d16c7b4a3cafff7ed858500da1bf"/>
+    {% endif %}
+    -->
+
+    <!-- Facebook Open Graph -->
+    <meta property="fb:app_id" content="{{ site.fbappid }}"/>
+    {% if page.image %}
+    <!-- include only on pages with Facebook button -->
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}/"/>
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:description" content="{{ site.description }}"/>
+    {% endif %}
+
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-50154508-4', 'unexploredparadises.eu');
+      ga('send', 'pageview');
+
+    </script>
+  </head>
+
+  <body>
+  <div id="content">
+    <div id="mobilehead">
+        <h1><a href="/">{{ site.name }}</a></h1>
+
+        <!-- <div id="subscribe">
+          &nbsp;<a class="twittercolor" href="/feed.xml">twitter</a> &nbsp;&nbsp; <a class="facebookcolor" href="/feed.xml">facebook</a> &nbsp;&nbsp; <a class="atom-rss" href="/feed.xml">RSS</a>
+        </div> -->
+          
+    </div>
+
+    <div id="container">
+
+      <div id="menu">
+        {% if page.title != 'Discover beautiful places around the world' %}
+          <a href="/" class="left">home</a>
+        {% endif %}
+        <a href="/tag" class="right">browse</a>
+        <a href="/about" class="right">about</a>
+        <a href="/submit" class="right">submit</a>
+        <div class="clear"></div>
+      </div>

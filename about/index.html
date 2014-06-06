@@ -1,0 +1,20 @@
+---
+layout: default
+title: 'unexplored paradises | about'
+---
+<div class="post">
+    <h2>about</h2>
+    <p>This site is dedicated to dedicated to discovering unexplored beautiful places around the world.</p>
+
+    <h3>submit images</h3>
+    <p>If you want to submit your pictures for publication on www.unexploredparadises.eu, please visit the <a href="/submit">submission page</a>.</p>
+
+    <h3>contact me</h3>
+    <p>If you are interested in contacting me, please shoot me an email to <span id="r" class="linkcolor">jan at unexploredparadises dot eu</span>.</p>
+</div>
+<script>
+  var a=document.getElementById("r"),b=a.textContent;
+  b=b.replace(" at ",String.fromCharCode(64));
+  b=b.replace(" dot ",String.fromCharCode(46));
+  a.textContent=b;
+</script>

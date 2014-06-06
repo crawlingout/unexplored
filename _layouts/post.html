@@ -1,0 +1,59 @@
+---
+layout: default
+---
+<div class="post">
+  <h2>{{ page.title }}</h2>
+  {% if page.image %}
+    <div class="img">
+      {% if page.imagelink %}
+        <a href="{{ page.imagelink }}">
+        <img src="{{ page.image }}" width="800" height="{{ page.imageheight }}" alt="{{ page.imagealt }}">
+        </a>
+      {% else %}
+        <a href="{{ page.image }}">
+          <img src="{{ page.image }}" width="800" height="{{ page.imageheight }}" alt="{{ page.imagealt }}">
+        </a>
+      {% endif %}
+
+      {% if page.imageby %}
+        <div class="imageby">
+          {{ page.imageby }}
+        </div>
+        <div class="clear"></div>
+      {% endif %}
+
+      {% if page.imagepindescription %}
+        <div class="pinterest_btn">
+            <a href="//www.pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&media={{ site.url }}{{ page.image }}&description={{ page.imagepindescription }}" data-pin-do="buttonPin" data-pin-config="beside" data-pin-color="white"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_white_20.png" /></a>
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+  
+  {% if page.tags.size > 0 %}
+    <div class="tags">tags: 
+      {% for tag in page.tags %}
+        <a href="/tag/{{ tag }}" class="tag">{{ tag | replace:'-',' ' }}</a>{% if forloop.last != true %}, {% endif %}
+      {% endfor %}
+    </div>
+    <div class="clear"></div>
+  {% endif %}
+  
+  {{ content }}
+
+  {% include share.html %}
+    
+  <div class="previous_next">
+    {% if page.previous.url %}
+      <div class="previous">
+        &lt; &nbsp;&nbsp;<a href="{{page.previous.url}}" title="Previous post: {{page.previous.title}}">{{page.previous.title}}</a>
+      </div>
+    {% endif %}
+    {% if page.next.url %}
+      <div class="next">
+        <a href="{{page.next.url}}" title="Next post: {{page.next.title}}">{{page.next.title}}</a>&nbsp;&nbsp; &gt;
+      </div>
+    {% endif %} 
+    <div class="clear"></div>
+  </div>
+</div>
