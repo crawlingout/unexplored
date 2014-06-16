@@ -1,1 +1,1 @@
-The photoblog dedicated to discovering unexplored beautiful places around the world - [www.unexploredparadises.eu](http://www.unexploredparadises.eu).
+The photoblog dedicated to discovering unexplored beautiful places around the world - [unexploredparadises.eu](http://unexploredparadises.eu).

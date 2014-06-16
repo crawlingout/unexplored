@@ -34,16 +34,16 @@ p {
 
 }
 
-img {
+.img {
+    padding: 0 0 30px;
+    position: relative;
+}
+
+.img img {
     background-color: #000000;
     border: medium none;
     display: block;
     max-width: 100%;
-}
-
-.img {
-    padding: 0 0 30px;
-    position: relative;
 }
 
 a {
@@ -114,7 +114,7 @@ button::-moz-focus-inner { border: 0; }
 
 .title {
     min-height: 55px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     position: relative;
 }
 
@@ -204,16 +204,22 @@ button::-moz-focus-inner { border: 0; }
 }
 
 .imageby {
-    background: #000000;
-    background: rgba(0, 0, 0, 0.8);
-    bottom: 45px;
-    color: #CBCBCB;
     font-size: 12px;
     height: 14px;
     padding: 2px 30px 2px 5px;
     position: absolute;
     right: 0;
+}
+.imageby.onpic {
+    background: #000000;
+    background: rgba(0, 0, 0, 0.8);
+    bottom: 45px;
+    color: #CBCBCB;
     text-shadow: 1px 1px 2px #000000;
+}
+.imageby.belowpic {
+    bottom: 0;
+    color: #626262;
 }
 .imageby.light {
     background-color: white;
@@ -229,7 +235,7 @@ button::-moz-focus-inner { border: 0; }
     line-height: 12px;
 }
 
-#tagslist {
+.tagslist {
     padding: 30px;
     line-height: 30px;
 }
@@ -299,8 +305,13 @@ button::-moz-focus-inner { border: 0; }
     padding: 0 30px 0 0;
 }
 
+.gap {
+    height: 40px;
+    position: relative;
+}
+
 .pinterest_btn {
-    bottom: 45px;
-    left: 20px;
+    bottom: 30px;
+    left: 30px;
     position: absolute;
 }
