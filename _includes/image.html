@@ -1,4 +1,4 @@
-<div class="img" {% if imagewidth < 800 %}style="width:{{imagewidth}}px;"{% endif %}>
+<div class="img paddingtop" {% if imagewidth < 800 %}style="width:{{imagewidth}}px;"{% endif %}>
   {% if imagelink %}
     <a href="{{ imagelink }}">
       <img src="{{ image }}" width="{{ imagewidth }}" height="{{ imageheight }}" alt="{{ imagealt }}">

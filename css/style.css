@@ -46,6 +46,10 @@ p {
     max-width: 100%;
 }
 
+.paddingtop {
+    padding-top: 15px;
+}
+
 a {
     color: #88C900;
     text-decoration: none;
@@ -314,4 +318,9 @@ button::-moz-focus-inner { border: 0; }
     bottom: 30px;
     left: 30px;
     position: absolute;
+}
+
+.unexploredparadises_disqus_thread {
+    margin-top: 30px;
+    padding: 30px;
 }
