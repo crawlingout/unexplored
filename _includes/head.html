@@ -22,13 +22,19 @@
 
     <!-- Facebook Open Graph -->
     <meta property="fb:app_id" content="{{ site.fbappid }}"/>
-    {% if page.image %}
-    <!-- include only on pages with Facebook button -->
-    <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
-    <meta property="og:type" content="article"/>
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}/"/>
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:description" content="{{ site.description }}"/>
+    {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
+    <meta property="og:type" content="article"/>
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}/i/first/slovakia-mountains.jpg"/>
+    <meta property="og:type" content="website"/>
+    {% endif %}
+    {% if page.title == 'Discover beautiful places around the world' %}
+    <meta property="og:url" content="{{ site.url }}/"/>
+    {% else %}
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}/"/>
     {% endif %}
 
     <!-- Google Analytics -->
