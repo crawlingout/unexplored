@@ -26,15 +26,15 @@
     <meta property="og:description" content="{{ site.description }}"/>
     {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
-    <meta property="og:type" content="article"/>
     {% else %}
     <meta property="og:image" content="{{ site.url }}/i/first/slovakia-mountains.jpg"/>
-    <meta property="og:type" content="website"/>
     {% endif %}
     {% if page.title == 'Discover beautiful places around the world' %}
     <meta property="og:url" content="{{ site.url }}/"/>
+    <meta property="og:type" content="website"/>
     {% else %}
     <meta property="og:url" content="{{ site.url }}{{ page.url }}/"/>
+    <meta property="og:type" content="article"/>
     {% endif %}
 
     <!-- Google Analytics -->
