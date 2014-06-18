@@ -16,21 +16,21 @@
 
     <!-- Pinterest -->
     <script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
-    {% if page.title == 'Discover beautiful places around the world' %}
+    {% if page.title == 'Unexplored Paradises' %}
     <meta name="p:domain_verify" content="f43d001389da6c3fdc0d72c5a8262f1a"/>
     {% endif %}
     
 
     <!-- Facebook Open Graph -->
     <meta property="fb:app_id" content="{{ site.fbappid }}"/>
-    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:title" content="{{ page.title }}{% if page.country %}, {{ page.country }}{% endif %}"/>
     <meta property="og:description" content="{{ site.description }}"/>
     {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
     {% else %}
     <meta property="og:image" content="{{ site.url }}/i/first/slovakia-mountains.jpg"/>
     {% endif %}
-    {% if page.title == 'Discover beautiful places around the world' %}
+    {% if page.title == 'Unexplored Paradises' %}
     <meta property="og:url" content="{{ site.url }}/"/>
     <meta property="og:type" content="website"/>
     {% else %}
@@ -80,7 +80,7 @@
     <div id="container">
 
       <div id="menu">
-        {% if page.title != 'Discover beautiful places around the world' %}
+        {% if page.title != 'Unexplored Paradises' %}
           <a href="/" class="left">home</a>
         {% endif %}
         <a href="/browse" class="right">browse</a>

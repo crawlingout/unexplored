@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Unexplored Paradises'
+title:  'Unexplored paradises - how to find them?'
 date:   2014-06-16 20:00:00
 image: '/i/first/slovakia-mountains.jpg'
 imageheight: 352
