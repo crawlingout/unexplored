@@ -320,6 +320,33 @@ button::-moz-focus-inner { border: 0; }
     position: absolute;
 }
 
+#wrapper {
+    position: relative;
+}
+
+#overlay {
+    bottom: 45px;
+    position: absolute;
+    text-align: right;
+    width: 800px;
+}
+
+#overlay p {
+    line-height: 30px;
+    margin: 10px 0;
+    padding: 0;
+}
+
+#overlay p span {
+    background-color: white;
+    font-size: 17px;
+    padding: 5px 30px 5px 10px;
+}
+
+#overlay p a {
+    color: #EB2700;
+}
+
 .unexploredparadises_disqus_thread {
     margin-top: 30px;
     padding: 30px;
