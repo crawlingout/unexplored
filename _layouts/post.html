@@ -7,11 +7,11 @@ layout: default
     <div class="img">
       {% if page.imagelink %}
         <a href="{{ page.imagelink }}">
-        <img src="{{ page.image }}" width="800" height="{{ page.imageheight }}" alt="{{ page.imagealt }}">
+        <img class="my" src="{{ page.image }}" width="800" height="{{ page.imageheight }}" alt="{{ page.imagealt }}">
         </a>
       {% else %}
         <a href="{{ page.image }}">
-          <img src="{{ page.image }}" width="800" height="{{ page.imageheight }}" alt="{{ page.imagealt }}">
+          <img class="my" src="{{ page.image }}" width="800" height="{{ page.imageheight }}" alt="{{ page.imagealt }}">
         </a>
       {% endif %}
 

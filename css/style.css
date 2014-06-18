@@ -39,7 +39,7 @@ p {
     position: relative;
 }
 
-.img img {
+img.my {
     background-color: #000000;
     border: medium none;
     display: block;
