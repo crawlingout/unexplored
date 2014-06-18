@@ -1,0 +1,52 @@
+---
+layout: post
+title:  'Unexplored Paradises'
+date:   2014-06-16 20:00:00
+image: '/i/first/slovakia-mountains.jpg'
+imageheight: 352
+imagealt: "Mountains, Slovakia"
+imageby: 'photo <a href="http://www.bigstockphoto.com/image-45566710/stock-photo-mountain-forest-panorama-slovakia">TTstudio</a>'
+disqus: true
+by:
+- 'TTstudio'
+- 'suricoma'
+---
+<strong>Dear travelers</strong>,<br />
+I think we can help each other discover beautiful places around the world.
+
+I love to travel. I live in the Czech Republic and recently went on a trip to White Carpathians, a range of mountains along the border between the Czech Republic and Slovakia. The trip was awesome: hills, forests, incredible sights, everything was so beautiful. But, what surprised me was the fact that nobody else was there. I walked around for two days and only met five or six hikers, all of them from the Czech Republic or Slovakia.
+
+When travelers from all over the world come to the Czech Republic, they all go to Prague. There are so many other beautiful places here: romantic ruins of medieval castles, deep forests and marvelous little towns. There are places many foreign tourists do not know about. Places like these...
+
+<!-- img -->
+{% assign image = '/i/first/oravsky-hrad.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageheight = 533 %}
+{% assign imagealt = "Oravský hrad, Slovakia" %}
+{% assign imageby = 'Oravský hrad, Slovakia - photo <a href="http://www.bigstockphoto.com/image-40926910/stock-photo-beautiful-slovakia-castle-at-sunset-oravsky-hrad">TTstudio</a>' %}
+{% assign imagelink = false %}
+{% include image.html %}
+
+<!-- img -->
+{% assign image = '/i/first/cesky-krumlov.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageheight = 554 %}
+{% assign imagealt = "Český Krumlov, Czech Republic" %}
+{% assign imageby = 'Český Krumlov, Czech Republic - photo <a href="http://www.bigstockphoto.com/image-2956847/stock-photo-czech-krumlov-architecture">suricoma</a>' %}
+{% assign imagelink = false %}
+{% include image.html %}
+
+<!-- img -->
+{% assign image = '/i/first/rozsutec.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageheight = 533 %}
+{% assign imagealt = "Rozsutec, Slovakia" %}
+{% assign imageby = 'Rozsutec, Slovakia - photo <a href="http://www.bigstockphoto.com/image-60592226/stock-photo-slovakia-mountain-peak-rozsutec-at-sunset-panorama">TTstudio</a>' %}
+{% assign imagelink = false %}
+{% include image.html %}
+
+When I am the foreigner in my travels to Spain or England, I go to places everyone else goes. I am sure I miss a lot and to be honest, I don't like places crowded with tourists, full of souvenir shops and expensive restaurants. I like places that still have a distinct atmosphere. The places only locals and experienced wanderers know about.
+
+There are a lot of sites where you can find info about Paris, Rome or Barcelona. Everyone knows about the Eiffel Tower, Taj Mahal, Machu Picchu and the pyramids. I want to create a site where travelers, backpackers and nomads can seek inspiration for their next adventure and let each other know about awesome places that are relatively unknown.
+
+Do you want to help me and <a href="../submit">let me know</a> about locations like that? I will try to build a collection of places worth visiting, with images, maps and location searches. We can help each other discover unexplored paradises of the world.
