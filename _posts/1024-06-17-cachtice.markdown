@@ -6,8 +6,9 @@ country: Slovakia
 continent: Europe
 image: '/i/slovakia/cachtice/1.jpg'
 imageheight: 532
-imagealt: "Čachtice, Slovakia"
+imagealt: "Čachtice Castle, Slovakia"
 imageby: 'photo <a href="http://www.bigstockphoto.com/image-45105430/stock-photo-ruin-of-castle-cachtice-slovakia">TTstudio</a>'
+imagedesc: ''
 by:
 - 'TTstudio'
 - 'phbcz'
@@ -21,23 +22,28 @@ A beautiful place with a dark past - infamous countess Elizabeth Báthory de Ecs
 {% assign image = '/i/slovakia/cachtice/4.jpg' %}
 {% assign imagewidth = 600 %}
 {% assign imageheight = 900 %}
-{% assign imagealt = "Čachtice, Slovakia" %}
+{% assign imagealt = "Čachtice Castle, Slovakia" %}
 {% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-30552242/stock-photo-ruins-of-cachtice-castle">phbcz</a>' %}
+{% assign imagelink = false %}
+{% assign imagedesc = "" %}
 {% include image.html %}
 
 <!-- img -->
 {% assign image = '/i/slovakia/cachtice/2.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/cruster/">Ján Sokoly</a>' %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/cruster/2642292136">Ján Sokoly</a>' %}
 {% assign imagelink = "http://www.flickr.com/photos/cruster/2642292136" %}
-{% assign imagealt = "" %}
+{% assign imagealt = "Čachtice Castle, Slovakia" %}
 {% assign imageheight = 600 %}
+{% assign imagedesc = "" %}
 {% include image.html %}
 
 <!-- img -->
 {% assign image = '/i/slovakia/cachtice/3.jpg' %}
 {% assign imagewidth = 600 %}
 {% assign imageheight = 900 %}
-{% assign imagealt = "Čachtice, Slovakia" %}
+{% assign imagealt = "Čachtice Castle, Slovakia" %}
 {% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-24371066/stock-photo-ruins-of-cachtice-castle">phbcz</a>' %}
+{% assign imagelink = false %}
+{% assign imagedesc = "" %}
 {% include image.html %}

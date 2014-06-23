@@ -17,6 +17,10 @@ layout: default
 
       {% if page.imageby %}
         <div class="imageby belowpic">
+          {% capture desc_length %}{{ page.imagedesc | size | minus:1 }}{% endcapture %}
+          {% unless desc_length contains '-' %}
+            {{ page.imagedesc }} - 
+          {% endunless %}
           {{ page.imageby }}
         </div>
         <div class="clear"></div>

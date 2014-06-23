@@ -8,6 +8,7 @@ image: '/i/czech-republic/cesky-raj/1.jpg'
 imageheight: 532
 imagealt: "Český ráj (Bohemian Paradise), Czech Republic"
 imageby: 'photo <a href="http://www.bigstockphoto.com/image-29886593/stock-photo-cesky-raj-sandstone-cliffs-prachovske-skaly">kubais</a>'
+imagedesc: ''
 by:
 - 'kubais'
 - 'KoTangens'
@@ -25,45 +26,51 @@ tags:
 {% assign imagelink = false %}
 {% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 533 %}
+{% assign imagedesc = "" %}
 {% include image.html %}
 
 {% assign image = '/i/czech-republic/cesky-raj/2.jpg' %}
 {% assign imagewidth = 534 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jirka_matousek/">Jirka Matousek</a>' %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jirka_matousek/8456207136">Jirka Matousek</a>' %}
 {% assign imagelink = "http://www.flickr.com/photos/jirka_matousek/8456207136" %}
 {% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 800 %}
+{% assign imagedesc = "" %}
 {% include image.html %}
 
 {% assign image = '/i/czech-republic/cesky-raj/5.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/foto-kouba/">Jaroslav Kuba</a>' %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/foto-kouba/3874644311/in/set-72157622072540143">Jaroslav Kuba</a>' %}
 {% assign imagelink = "http://www.flickr.com/photos/foto-kouba/3874644311/in/set-72157622072540143" %}
 {% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 529 %}
+{% assign imagedesc = "" %}
 {% include image.html %}
 
 {% assign image = '/i/czech-republic/cesky-raj/7.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jirka_matousek/">Jirka Matousek</a>' %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jirka_matousek/8456201634/in/set-72157632715118389">Jirka Matousek</a>' %}
 {% assign imagelink = "http://www.flickr.com/photos/jirka_matousek/8456201634/in/set-72157632715118389" %}
 {% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
 {% include image.html %}
 
 {% assign image = '/i/czech-republic/cesky-raj/4.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File:Hrubice_a_Trosky.jpg">Alofok</a>' %}
 {% assign imagelink = false %}
-{% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
+{% assign imagealt = "Castle Hruba Skala, Český ráj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 451 %}
+{% assign imagedesc = "Castle Hruba Skala" %}
 {% include image.html %}
 
 {% assign image = '/i/czech-republic/cesky-raj/6.jpg' %}
 {% assign imagewidth = 534 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jirka_matousek/">Jirka Matousek</a>' %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jirka_matousek/8455102119">Jirka Matousek</a>' %}
 {% assign imagelink = "http://www.flickr.com/photos/jirka_matousek/8455102119" %}
 {% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 800 %}
+{% assign imagedesc = "" %}
 {% include image.html %}
 

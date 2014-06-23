@@ -11,6 +11,10 @@
 
   {% if imageby %}
     <div class="imageby belowpic">
+      {% capture desc_length %}{{ imagedesc | size | minus:1 }}{% endcapture %}
+        {% unless desc_length contains '-' %}
+          {{ imagedesc }} - 
+        {% endunless %}
       {{ imageby }}
     </div>
   {% endif %}
