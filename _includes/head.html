@@ -15,8 +15,7 @@
 
 
     <!-- Pinterest -->
-    <script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
-    {% if page.title == 'Unexplored Paradises' %}
+    {% if page.title == 'unexplored paradises' %}
     <meta name="p:domain_verify" content="f43d001389da6c3fdc0d72c5a8262f1a"/>
     {% endif %}
     
@@ -30,7 +29,7 @@
     {% else %}
     <meta property="og:image" content="{{ site.url }}/i/explore.jpg"/>
     {% endif %}
-    {% if page.title == 'Unexplored Paradises' %}
+    {% if page.title == 'unexplored paradises' %}
     <meta property="og:url" content="{{ site.url }}/"/>
     <meta property="og:type" content="website"/>
     {% else %}
@@ -80,11 +79,11 @@
     <div id="container">
 
       <div id="menu">
-        {% if page.title != 'Unexplored Paradises' %}
+        {% if page.title != 'unexplored paradises' %}
           <a href="/" class="left">home</a>
         {% endif %}
         <a href="/browse" class="right">browse</a>
-        <a href="/about" class="right">about</a>
         <a href="/submit" class="right">submit</a>
+        <a href="/about" class="right">about</a>
         <div class="clear"></div>
       </div>
