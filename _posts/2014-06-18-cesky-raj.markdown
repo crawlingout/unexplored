@@ -16,8 +16,9 @@ by:
 - 'Jaroslav Kuba'
 - 'Alofok'
 tags:
+twtrdsc: "A labyrinth of bizarre rock formations, shady valleys, deep pine forests. Many castles and chateaus."
 ---
-Český ráj (Bohemian Paradise) - a protected area about 90 kilometres north-east of Prague. A labyrinth of bizarre rock formations, shady valleys, deep pine forests, many castles and chateaus. There is a large network of marked trails for hiking. The "rock towns" are the paradise for climbers. 
+A protected area about 90 kilometers north-east of Prague. A labyrinth of bizarre rock formations, shady valleys, deep pine forests. Many castles and chateaus. There is a large network of marked trails for hiking. The "rock towns" are the paradise for climbers. 
 
 <!-- img -->
 {% assign image = '/i/czech-republic/cesky-raj/3.jpg' %}

@@ -17,8 +17,9 @@ by:
 - 'David McGregor'
 - 'Aleksandar Todorovic'
 tags:
+twtrdsc: "Dense Mediterranean forest. Numerous chasms and gorges. Stunning scenery and peaceful atmosphere."
 ---
-Mljet - an island located south of the Pelješac peninsula, Croatia. Dense Mediterranean forest, numerous chasms and gorges. The western part of Mljet with two lakes - Veliko jezero and Malo jezero - is now a national park. There is an old Benedictine monastery on an islet on the larger of the two lakes.
+An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean forest. Numerous chasms and gorges. Stunning scenery and peaceful atmosphere.
 
 {% assign image = '/i/croatia/mljet-island/3.jpg' %}
 {% assign imagewidth = 800 %}

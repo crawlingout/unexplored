@@ -16,8 +16,9 @@ by:
 tags:
 - 'Moors'
 - 'Templars'
+twtrdsc: "This fortress, originally built as a part of the chain of Moorish forts guarding the passage to Valencia, was owned by Templars in the 15th century."
 ---
-Castillo de Xivert - a fortress built in the 10th century, located in the National Park of the Sierra de Irta. It was a part of the chain of Moorish fortresses guarding the passage to Valencia. Although originally Moorish, it was modiffied by Templars in the 15th century.
+A fortress located in the National Park of the Sierra de Irta. It was built in the 10th century as a part of the chain of Moorish forts guarding the passage to Valencia. It was owned by Templars in the 15th century.
 
 <!-- img -->
 {% assign image = '/i/spain/castillo-de-xivert/2.jpg' %}
