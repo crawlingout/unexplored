@@ -176,6 +176,15 @@ button::-moz-focus-inner { border: 0; }
     padding: 0 30px 25px;
 }
 
+#browse h2 {
+    color: #808080;
+    font-size: 25px;
+    font-weight: normal;
+    line-height: 25px;
+    margin: 25px 0 0;
+    padding: 0 0 25px;
+}
+
 #menu {
     padding-right: 20px;
 }
@@ -244,8 +253,10 @@ button::-moz-focus-inner { border: 0; }
 }
 
 .tagslist {
-    padding: 30px;
+    float: left;
     line-height: 30px;
+    padding: 0 30px 30px;
+    width: 335px;
 }
 
 #footer {
@@ -262,13 +273,20 @@ button::-moz-focus-inner { border: 0; }
     color: silver;
 }
 
+.filtered {
+    border-bottom: 1px solid #e1e1e1;
+    border-top: 1px solid #e1e1e1;
+    margin-bottom: 25px;
+}
+
 .filteredby {
-    float: left;
-    background-color: #888888;
-    color: #FFFFFF;
+    background-color: white;
+    color: #9a9a9a;
     display: block;
-    padding: 15px 30px;
+    float: left;
+    font-size: 20px;
     line-height: 20px;
+    padding: 15px 30px;
 }
 
 .filteredby.back {

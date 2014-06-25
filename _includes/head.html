@@ -40,12 +40,12 @@
 
     {% if page.image %}
     <!-- Twitter Card -->
-    <meta name="twitter:card" content="photo">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@unXpl0red">
     <meta name="twitter:creator" content="@unXpl0red">
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     <meta name="twitter:title" content="{{ page.title }}{% if page.country %}, {{ page.country }}{% endif %}">
-    <meta name="twitter:description" content='{{ page.imageby }}'>
+    <meta name="twitter:description" content='{% if page.twtrdsc %}{{ page.twtrdsc }} - {% endif %}{{ page.imageby }}'>
     <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
     <meta name="twitter:image:width" content="800">
     <meta name="twitter:image:height" content="{{ page.imageheight }}">

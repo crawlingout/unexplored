@@ -2,10 +2,11 @@
 layout: default
 title: 'unexplored paradises | browse'
 ---
-<div class="post">
+<div id="browse">
 
-    <h2>browse by country</h2>
     <div class="tagslist">
+    <h2>browse by country</h2>
+
     {% assign countrys = '' %}
     {% for post in site.posts %}
         {% if country contains post.country %}{% else %}
@@ -17,14 +18,19 @@ title: 'unexplored paradises | browse'
     {% endfor %}
     </div>
     
+    
+    <div class="tagslist" style="border-left: 1px solid #EAEAEA;">
     <h2>browse by tag</h2>
-    <div class="tagslist">
+
     {% for tag in site.tags %}
         <div class="tag">
             <a href="/browse/{{ tag | first | replace:' ','-' | downcase }}" class="tag">{{ tag | first }}</a>
         </div>
     {% endfor %}
     </div>
+
+    <div class="clear"></div>
+
 
     <!-- <h2>browse by author</h2>
     <div class="tagslist">
