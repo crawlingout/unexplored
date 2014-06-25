@@ -19,6 +19,14 @@
     line-height: 52px;
 }
 
+#mobilehead h2 {
+    color: #c0c0c0;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 10px 0;
+    padding: 0 30px;
+}
+
 #rightcolumn {
     display: none;
 }
