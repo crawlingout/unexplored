@@ -19,7 +19,7 @@
     <!-- Tweet -->
     <div class="share">
         {% if page.country %}
-        <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-text="Travel inspiration: off the beaten path > {{ page.title }}, {{ page.country }}" data-via="unXpl0red" data-hashtags="rtw">Tweet</a>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-text="Travel inspiration: off the beaten path > {{ page.title }}, {{ page.country }}" data-via="unXpl0red" {% if page.hashtags %}data-hashtags="{{ page.hashtags }}"{% endif %}>Tweet</a>
         {% else %}
         <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en" data-via="unXpl0red">Tweet</a>
         {% endif %}
