@@ -45,7 +45,7 @@
     <meta name="twitter:creator" content="@unXpl0red">
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     <meta name="twitter:title" content="{{ page.title }}{% if page.country %}, {{ page.country }}{% endif %}">
-    <meta name="twitter:description" content='{% if page.twtrdsc %}{{ page.twtrdsc }} {% endif %}{{ page.imageby | capitalize }}.'>
+    <meta name="twitter:description" content='{% if page.twtrdsc %}{{ page.twtrdsc }} {% endif %}{{ page.imageby | replace: "photo", "Photo" }}.'>
     <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
     <meta name="twitter:image:width" content="800">
     <meta name="twitter:image:height" content="{{ page.imageheight }}">

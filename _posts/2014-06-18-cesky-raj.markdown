@@ -59,7 +59,7 @@ A protected area about 90 kilometers north-east of Prague. A labyrinth of bizarr
 
 {% assign image = '/i/czech-republic/cesky-raj/4.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File:Hrubice_a_Trosky.jpg">Alofok</a>' %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AHrubice_a_Trosky.jpg">Alofok</a>' %}
 {% assign imagelink = false %}
 {% assign imagealt = "Castle Hruba Skala, Český ráj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 451 %}

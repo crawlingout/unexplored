@@ -64,8 +64,8 @@ Ancient Patara was an important naval base during the wars of Alexander the Grea
 
 {% assign image = '/i/turkey/patara/6.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/104619155@N06/10168723786">Harald Brendel</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/104619155@N06/10168723786" %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="https://flic.kr/p/guzniU">Harald Brendel</a>' %}
+{% assign imagelink = "https://flic.kr/p/guzniU" %}
 {% assign imagealt = "Patara Ruins, Turkey" %}
 {% assign imageheight = 600 %}
 {% assign imagedesc = "" %}

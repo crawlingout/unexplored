@@ -34,7 +34,7 @@ Valbona Valley National Park is a protected area in Albania. The gem of Prokleti
 
 {% assign image = '/i/albania/valbona-valley/3.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/">(<em>cc</em>)</a> <a href="http://en.wikipedia.org/wiki/File:2013-10-05_Valbona,_Albania_8806.jpg">Tobias Klenze</a>' %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3A2013-10-05_Valbona%2C_Albania_8806.jpg">Tobias Klenze</a>' %}
 {% assign imagelink = false %}
 {% assign imagealt = "View of the Valbona valley from the Valbona-Teth path" %}
 {% assign imageheight = 533 %}
