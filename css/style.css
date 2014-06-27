@@ -65,6 +65,11 @@ a.tag:hover {
     text-decoration: underline;
 }
 
+.imageby a:hover {
+    text-decoration: underline;
+}
+
+
 /* remove ugly dotted lines around clicked links and buttons in FF */
 a { outline: none; }
 button::-moz-focus-inner { border: 0; }

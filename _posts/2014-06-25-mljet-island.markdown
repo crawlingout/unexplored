@@ -27,7 +27,7 @@ An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean
 {% assign imagelink = false %}
 {% assign imagealt = "Monastery of Saint Mary, Mljet Island, Croatia" %}
 {% assign imageheight = 533 %}
-{% assign imagedesc = "Monastery of Saint Mary" %}
+{% assign imagedesc = "Monastery of Saint Mary." %}
 {% include image.html %}
 
 {% assign image = '/i/croatia/mljet-island/9.jpg' %}
@@ -63,5 +63,5 @@ An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean
 {% assign imageheight = 533 %}
 {% assign imagealt = "St. Marija monastery, Mljet, Croatia" %}
 {% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-26001467/stock-photo-st-marija-monastery-on-litle-island-in-national-park-mljet">Aleksandar Todorovic</a>' %}
-{% assign imagedesc = "St. Marija monastery" %}
+{% assign imagedesc = "St. Marija monastery." %}
 {% include image.html %}

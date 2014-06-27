@@ -19,9 +19,9 @@ layout: default
         <div class="imageby belowpic">
           {% capture desc_length %}{{ page.imagedesc | size | minus:1 }}{% endcapture %}
           {% unless desc_length contains '-' %}
-            {{ page.imagedesc }} - 
+            {{ page.imagedesc }} 
           {% endunless %}
-          {{ page.imageby }}
+          {{ page.imageby | capitalize }}.
         </div>
         <div class="clear"></div>
       {% endif %}

@@ -13,9 +13,9 @@
     <div class="imageby belowpic">
       {% capture desc_length %}{{ imagedesc | size | minus:1 }}{% endcapture %}
         {% unless desc_length contains '-' %}
-          {{ imagedesc }} - 
+          {{ imagedesc }} 
         {% endunless %}
-      {{ imageby }}
+      {{ imageby | capitalize }}.
     </div>
   {% endif %}
 </div>

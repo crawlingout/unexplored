@@ -1,0 +1,90 @@
+---
+layout: post
+title:  'Patara'
+date:   2014-06-27 20:00:00
+country: Turkey
+continent: Europe
+by:
+- 'theataraxia'
+- 'shanin'
+- 'fortcasper'
+- 'Vadimph'
+- 'Harald Brendel'
+- 'Borya'
+- 'Madmartigand'
+tags:
+- 'Lycian way'
+- 'Romans'
+
+image: '/i/turkey/patara/1.jpg'
+imageby: 'photo <a href="http://www.bigstockphoto.com/image-47565955/stock-photo-ancient-gate">theataraxia</a>'
+imagealt: "Arch of Mettius Modestus, 1st century AD, Patara, Turkey"
+imageheight: 533
+twtrdsc: 'Ancient Patara was an important naval base during the wars of Alexander the Great’s successors and later became a thriving port within the Roman Empire.'
+imagedesc: 'Arch of Mettius Modestus, 1st century AD.'
+---
+Ancient Patara was an important naval base during the wars of Alexander the Great’s successors and later became a thriving port within the Roman Empire.  According to mythology the city was founded by Patarus, a son of Apollo. Patara’s oracle at the renown temple of Apollo was said to rival that at Delphi.
+
+<!-- img -->
+{% assign image = '/i/turkey/patara/2.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-47218825/stock-photo-olive-farm">shanin</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Olive farm on the coast near Patara, Turkey" %}
+{% assign imageheight = 533 %}
+{% assign imagedesc = "Olive farm on the coast near Patara." %}
+{% include image.html %}
+
+{% assign image = '/i/turkey/patara/5.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://en.wikipedia.org/wiki/File:%D0%9F%D0%B0%D1%82%D0%B0%D1%80%D0%B0._%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_3.jpg">Vadimph</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Main Street of Patara Ruins, Turkey" %}
+{% assign imageheight = 533 %}
+{% assign imagedesc = "Main Street of Patara Ruins." %}
+{% include image.html %}
+
+{% assign image = '/i/turkey/patara/3.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-38333044/stock-photo-amphitheater-of-the-ancient-city-of-patara">fortcasper</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Amphitheatre at Patara, Turkey" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "Amphitheatre." %}
+{% include image.html %}
+
+{% assign image = '/i/turkey/patara/4.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-38333032/stock-photo-hall-meeting-of-senators-in-patara">fortcasper</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Patara, Turkey" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/turkey/patara/6.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/104619155@N06/10168723786">Harald Brendel</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/104619155@N06/10168723786" %}
+{% assign imagealt = "Patara Ruins, Turkey" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/turkey/patara/7.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/barthelomaus/6171188161">Borya</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/barthelomaus/6171188161" %}
+{% assign imagealt = "Aqueduct in Patara Ruins, Turkey" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "Aqueduct leading to Patara bringing water from the Taurus Mountains." %}
+{% include image.html %}
+
+{% assign image = '/i/turkey/patara/8.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/madmartigand/3864075261">Madmartigand</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/madmartigand/3864075261" %}
+{% assign imagealt = "" %}
+{% assign imageheight = 706 %}
+{% assign imagedesc = "" %}
+{% include image.html %}

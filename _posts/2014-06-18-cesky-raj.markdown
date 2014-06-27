@@ -63,7 +63,7 @@ A protected area about 90 kilometers north-east of Prague. A labyrinth of bizarr
 {% assign imagelink = false %}
 {% assign imagealt = "Castle Hruba Skala, Český ráj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 451 %}
-{% assign imagedesc = "Castle Hruba Skala" %}
+{% assign imagedesc = "Castle Hruba Skala." %}
 {% include image.html %}
 
 {% assign image = '/i/czech-republic/cesky-raj/6.jpg' %}
