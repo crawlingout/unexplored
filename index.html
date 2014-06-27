@@ -3,6 +3,28 @@ layout: default
 title: 'unexplored paradises' # if changed, change other places where this is used (detecting main page etc.)
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
     {% include postshort.html %}
 {% endfor %}
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  <div class="left" style="height: 15px;width:266px;">
+  {% if paginator.next_page %}
+    &lt; &nbsp;&nbsp;<a href="/{{ paginator.next_page }}" class="next"><strong>Older posts</strong></a>
+  {% endif %}
+  </div>
+
+  <div class="left" style="height: 15px;width:268px;text-align:center;">
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  </div>
+  
+  <div class="left" style="height: 15px;width:266px;text-align:right;">
+  {% if paginator.previous_page %}
+    <a href="/{% unless paginator.previous_page == 1 %}{{ paginator.previous_page }}{% endunless %}" class="previous"><strong>Newer posts</strong></a>&nbsp;&nbsp; &gt;
+  {% endif %}
+  </div>
+  <div class="clear"></div>
+</div>
+{% endif %}

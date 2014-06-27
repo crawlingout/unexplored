@@ -4,3 +4,5 @@ description: "A photoblog dedicated to discovering less known beautiful places a
 url: http://unexploredparadises.eu
 permalink: /:title
 fbappid: 244999072358409 # facebook app ID
+paginate: 12
+paginate_path: "/:num"
