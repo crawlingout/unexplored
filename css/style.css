@@ -42,6 +42,7 @@ p {
 img.my {
     background-color: #000000;
     border: medium none;
+    color: #000000;
     display: block;
     max-width: 100%;
 }
