@@ -326,24 +326,39 @@ button::-moz-focus-inner { border: 0; }
 .previous_next .previous, .previous_next .next {
     font-size: 13px;
     font-weight: bold;
-    height: 200px;
     position: relative;
-    width: 330px
+}
+
+.previous_next a {
+    border: none;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    width: 330px;
+    height: 200px;
 }
 
 .thumb {
     width: 330px;
     height: 200px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .thumb_desc {
     background: #000000;
-    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.75);
     bottom: 0;
     color: #FFFFFF;
+    right: 0;
     padding: 10px 15px;
     position: absolute;
     width: 300px;
+    margin: 0;
+}
+/* Opera hack */
+-o-prefocus, .thumb_desc {
+       width: 299px;
 }
 
 #share {
