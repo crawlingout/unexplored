@@ -4,7 +4,7 @@ title:  'Mljet Island'
 date:   2014-06-25 20:00:00
 country: Croatia
 continent: Europe
-image: '/i/croatia/mljet-island/1.jpg'
+image: '/i/croatia/mljet-island/view.jpg'
 imageheight: 558
 imagealt: "Mljet Island, Croatia"
 imageby: 'photo <a title="license CC BY-SA 2.0" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="https://flic.kr/p/giEqqj">Carine06</a>'
@@ -22,7 +22,7 @@ twtrdsc: "Dense Mediterranean forest. Numerous chasms and gorges. Stunning scene
 ---
 An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean forest. Numerous chasms and gorges. Stunning scenery and peaceful atmosphere.
 
-{% assign image = '/i/croatia/mljet-island/3.jpg' %}
+{% assign image = '/i/croatia/mljet-island/monastery.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-32956961/stock-photo-monastery-at-island-mljet-in-croatia">Nik_Sorokin</a>' %}
 {% assign imagelink = false %}
@@ -31,7 +31,7 @@ An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean
 {% assign imagedesc = "Monastery of Saint Mary." %}
 {% include image.html %}
 
-{% assign image = '/i/croatia/mljet-island/9.jpg' %}
+{% assign image = '/i/croatia/mljet-island/tranquility.jpg' %}
 {% assign imagewidth = 596 %}
 {% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-48769559/stock-photo-two-boats-in-mljet-croatia">Ocus Focus</a>' %}
 {% assign imagelink = false %}
@@ -40,7 +40,7 @@ An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean
 {% assign imagedesc = "" %}
 {% include image.html %}
 
-{% assign image = '/i/croatia/mljet-island/7.jpg' %}
+{% assign image = '/i/croatia/mljet-island/beautiful-bay.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/karlnorling/3695483209">karlnorling</a>' %}
 {% assign imagelink = "http://www.flickr.com/photos/karlnorling/3695483209" %}
@@ -49,7 +49,7 @@ An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean
 {% assign imagedesc = "" %}
 {% include image.html %}
 
-{% assign image = '/i/croatia/mljet-island/5.jpg' %}
+{% assign image = '/i/croatia/mljet-island/bay.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/magilla03/9109205749">David McGregor</a>' %}
 {% assign imagelink = "http://www.flickr.com/photos/magilla03/9109205749" %}
@@ -59,7 +59,7 @@ An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean
 {% include image.html %}
 
 <!-- img -->
-{% assign image = '/i/croatia/mljet-island/2.jpg' %}
+{% assign image = '/i/croatia/mljet-island/monastery-on-island.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageheight = 533 %}
 {% assign imagealt = "St. Marija monastery, Mljet, Croatia" %}
