@@ -357,8 +357,10 @@ button::-moz-focus-inner { border: 0; }
     margin: 0;
 }
 /* Opera hack */
--o-prefocus, .thumb_desc {
-       width: 299px;
+@media not all and (-webkit-min-device-pixel-ratio:0) { 
+    .thumb_desc {
+        width: 299px;
+   }
 }
 
 #share {
