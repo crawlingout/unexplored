@@ -308,7 +308,10 @@ button::-moz-focus-inner { border: 0; }
 }
 
 .previous_next {
-    padding: 35px 35px 20px;
+    border-bottom: 1px solid #eaeaea;
+    border-top: 1px solid #eaeaea;
+    margin-top: 55px;
+    padding: 35px 30px;
 }
 
 .previous_next .previous {
@@ -322,7 +325,25 @@ button::-moz-focus-inner { border: 0; }
 
 .previous_next .previous, .previous_next .next {
     font-size: 13px;
-    height: 16px;
+    font-weight: bold;
+    height: 200px;
+    position: relative;
+    width: 330px
+}
+
+.thumb {
+    width: 330px;
+    height: 200px;
+}
+
+.thumb_desc {
+    background: #000000;
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);
+    bottom: 0;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    position: absolute;
+    width: 300px;
 }
 
 #share {

@@ -52,12 +52,18 @@ layout: default
   <div class="previous_next">
     {% if page.previous.url %}
       <div class="previous">
-        &lt; &nbsp;&nbsp;<a href="{{page.previous.url}}">{{page.previous.title}}</a>
+        <a href="{{page.previous.url}}">
+          <div class="thumb" title="Older" style="background: url('{{page.previous.image}}') no-repeat scroll center center black;background-size: 100%;"></div>
+          <div class="thumb_desc">&lt; &nbsp;&nbsp;{{page.previous.title}}</div>
+        </a>
       </div>
     {% endif %}
     {% if page.next.url %}
       <div class="next">
-        <a href="{{page.next.url}}">{{page.next.title}}</a>&nbsp;&nbsp; &gt;
+        <a href="{{page.next.url}}">
+          <div class="thumb" title="Newer" style="background: url('{{page.next.image}}') no-repeat scroll center center black;background-size: 100%;"></div>
+          <div class="thumb_desc">{{page.next.title}}&nbsp;&nbsp; &gt;</div>
+        </a>
       </div>
     {% endif %} 
     <div class="clear"></div>
