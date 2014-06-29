@@ -11,7 +11,7 @@ disqus: true
 by:
 - 'TTstudio'
 - 'suricoma'
-twtrdsc: "I want to create a site where travelers, backpackers and nomads can seek inspiration for their next adventure and let each other know about awesome places that are relatively unknown."
+twtrdsc: "A site where travelers can seek inspiration for their next adventure and let others know about awesome places that are relatively unknown."
 ---
 <strong>Dear travelers</strong>,<br />
 I think we can help each other discover beautiful places around the world.

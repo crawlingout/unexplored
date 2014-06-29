@@ -16,7 +16,7 @@ by:
 tags:
 - 'Moors'
 - 'Templars'
-twtrdsc: "This fortress, originally built as a part of the chain of Moorish forts guarding the passage to Valencia, was owned by Templars in the 15th century."
+twtrdsc: "Interesting fortress, built as a part of the chain of Moorish forts guarding the passage to Valencia, later owned by Templars."
 ---
 A fortress located in the National Park of the Sierra de Irta. It was built in the 10th century as a part of the chain of Moorish forts guarding the passage to Valencia. It was owned by Templars in the 15th century.
 
