@@ -347,7 +347,7 @@ button::-moz-focus-inner { border: 0; }
 
 .thumb_desc {
     background: #000000;
-    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.75);
+    /*background: none repeat scroll 0 0 rgba(0, 0, 0, 0.75);*/
     bottom: 0;
     color: #FFFFFF;
     right: 0;
@@ -360,7 +360,7 @@ button::-moz-focus-inner { border: 0; }
 @media not all and (-webkit-min-device-pixel-ratio:0) { 
     .thumb_desc {
         width: 299px;
-   }
+    }
 }
 
 #share {

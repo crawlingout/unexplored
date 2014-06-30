@@ -53,15 +53,34 @@ layout: default
     {% if page.previous.url %}
       <div class="previous">
         <a href="{{page.previous.url}}">
-          <div class="thumb" title="Older" style="background: url('{{page.previous.image}}') no-repeat scroll center center #FFFFFF;background-size: 100%;"></div>
+          {% if page.previous.image %}
+            {% if page.previous.imageheight > 400 %}
+              <div class="thumb" title="Older" style="background: url('{{page.previous.image}}') no-repeat scroll center center #000000;background-size: 100%;"></div>
+            {% else %} 
+              <div class="thumb" title="Older" style="background: url('{{page.previous.image}}') no-repeat scroll top center #000000;background-size: 100%;"></div>
+            {% endif %}
+          {% else %}
+            <div class="thumb" title="Older" style="background: url('/i/explore.jpg') no-repeat scroll center center #000000;background-size: 100%;"></div>
+          {% endif %} 
+
           <div class="thumb_desc">&lt; &nbsp;&nbsp;{{page.previous.title}}</div>
         </a>
       </div>
     {% endif %}
+
     {% if page.next.url %}
       <div class="next">
         <a href="{{page.next.url}}">
-          <div class="thumb" title="Newer" style="background: url('{{page.next.image}}') no-repeat scroll center center #FFFFFF;background-size: 100%;"></div>
+          {% if page.next.image %}
+            {% if page.next.imageheight > 400 %}
+              <div class="thumb" title="Newer" style="background: url('{{page.next.image}}') no-repeat scroll center center #000000;background-size: 100%;"></div>
+            {% else %} 
+              <div class="thumb" title="Newer" style="background: url('{{page.next.image}}') no-repeat scroll top center #000000;background-size: 100%;"></div>
+            {% endif %}
+          {% else %} 
+            <div class="thumb" title="Newer" style="background: url('/i/explore.jpg') no-repeat scroll center center #000000;background-size: 100%;"></div>
+          {% endif %} 
+
           <div class="thumb_desc">{{page.next.title}}&nbsp;&nbsp; &gt;</div>
         </a>
       </div>
