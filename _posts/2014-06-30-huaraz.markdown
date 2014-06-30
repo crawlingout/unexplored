@@ -1,0 +1,106 @@
+---
+layout: post
+title:  'Huaraz'
+date:   2014-06-30 20:00:00
+country: Peru
+continent: South America
+by:
+- 'fabulousfabs'
+- 'rechitansorin'
+- 'Léo Guellec'
+- 'Madeleine Holland'
+- 'Jeff Warren'
+- 'johnjodeery'
+tags:
+
+image: '/i/peru/huaraz/santa-cruz-trek.jpg'
+imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/fabulousfabs/6079525355">fabulousfabs</a>'
+imagelink: http://www.flickr.com/photos/fabulousfabs/6079525355
+imagealt: "Santa Cruz trek, Huaraz, Peru"
+imagedesc: "Santa Cruz trek."
+imageheight: 600
+twtrdsc: 'The region surrounding this city in the heart of Cordiliera Blanca is a paradise for trekkers.'
+---
+This city in the heart of Cordiliera Blanca at an altitude greater than 3000 meters is in my travel bucket list because from what I hear, the surrounding region is a trekker's paradise. Trekking or biking through that breathtaking mountain scenery would be awesome and this area is less touristy than famous trekking locations like the Inca trail.
+
+<!-- img -->
+{% assign image = '/i/peru/huaraz/the-city.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-48240065/stock-photo-huaraz-city-in-cordiliera-blanca%2C-peru">rechitansorin</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Huaraz, the city under the mountains, Peru" %}
+{% assign imagedesc = "Huaraz, the city under the mountains." %}
+{% assign imageheight = 533 %}
+{% include image.html %}
+
+{% assign image = '/i/peru/huaraz/laguna-churup-trail.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/guellec31/7640177848">Léo Guellec</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/guellec31/7640177848" %}
+{% assign imagealt = "Laguna Churup trail, Huaraz, Peru" %}
+{% assign imagedesc = "Laguna Churup trail." %}
+{% assign imageheight = 600 %}
+{% include image.html %}
+
+{% assign image = '/i/peru/huaraz/path-laguna-churup.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/guellec31/7677729354/in/set-72157630713415546">Léo Guellec</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/guellec31/7677729354/in/set-72157630713415546" %}
+{% assign imagealt = "The path to Laguna Churup, Huaraz, Peru" %}
+{% assign imagedesc = "The path to Laguna Churup." %}
+{% assign imageheight = 449 %}
+{% include image.html %}
+
+{% assign image = '/i/peru/huaraz/laguna-churup.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/guellec31/7677866704/in/set-72157630713415546">Léo Guellec</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/guellec31/7677866704/in/set-72157630713415546" %}
+{% assign imagealt = "Laguna Churup, Huaraz, Peru" %}
+{% assign imagedesc = "Laguna Churup." %}
+{% assign imageheight = 449 %}
+{% include image.html %}
+
+{% assign image = '/i/peru/huaraz/valley.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/madeleine_h/10836799824">Madeleine Holland</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/madeleine_h/10836799824" %}
+{% assign imagealt = "The valley below Laguna 69, Huaraz, Peru" %}
+{% assign imagedesc = "The valley below Laguna 69." %}
+{% assign imageheight = 534 %}
+{% include image.html %}
+
+{% assign image = '/i/peru/huaraz/trail.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/madeleine_h/10836627335">Madeleine Holland</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/madeleine_h/10836627335" %}
+{% assign imagealt = "Laguna 69 trail, Huaraz, Peru" %}
+{% assign imagedesc = "Laguna 69 trail." %}
+{% assign imageheight = 534 %}
+{% include image.html %}
+
+{% assign image = '/i/peru/huaraz/flowers.jpg' %}
+{% assign imagewidth = 534 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/madeleine_h/10836624855">Madeleine Holland</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/madeleine_h/10836624855" %}
+{% assign imagealt = "Laguna 69 trail, Huaraz, Peru" %}
+{% assign imagedesc = "" %}
+{% assign imageheight = 800 %}
+{% include image.html %}
+
+{% assign image = '/i/peru/huaraz/adventure.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jeffreywarren/246917278">Jeff Warren</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/jeffreywarren/246917278" %}
+{% assign imagealt = "Huaraz, Peru" %}
+{% assign imagedesc = "" %}
+{% assign imageheight = 600 %}
+{% include image.html %}
+
+{% assign image = '/i/peru/huaraz/hike.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/johnjodeery/8161339723">johnjodeery</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/johnjodeery/8161339723" %}
+{% assign imagealt = "Huaraz, Peru" %}
+{% assign imagedesc = "" %}
+{% assign imageheight = 531 %}
+{% include image.html %}
