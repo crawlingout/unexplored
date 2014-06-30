@@ -54,13 +54,9 @@ layout: default
       <div class="previous">
         <a href="{{page.previous.url}}">
           {% if page.previous.image %}
-            {% if page.previous.imageheight > 400 %}
-              <div class="thumb" title="Older" style="background: url('{{page.previous.image}}') no-repeat scroll center center #000000;background-size: 100%;"></div>
-            {% else %} 
-              <div class="thumb" title="Older" style="background: url('{{page.previous.image}}') no-repeat scroll top center #000000;background-size: 100%;"></div>
-            {% endif %}
+            <div class="thumb" title="Older" style="background: url('{{page.previous.image}}') no-repeat scroll center center #000000;background-size: cover;"></div>
           {% else %}
-            <div class="thumb" title="Older" style="background: url('/i/explore.jpg') no-repeat scroll center center #000000;background-size: 100%;"></div>
+            <div class="thumb" title="Older" style="background: url('/i/explore.jpg') no-repeat scroll center center #000000;background-size: cover;"></div>
           {% endif %} 
 
           <div class="thumb_desc">&lt; &nbsp;&nbsp;{{page.previous.title}}</div>
@@ -72,13 +68,9 @@ layout: default
       <div class="next">
         <a href="{{page.next.url}}">
           {% if page.next.image %}
-            {% if page.next.imageheight > 400 %}
-              <div class="thumb" title="Newer" style="background: url('{{page.next.image}}') no-repeat scroll center center #000000;background-size: 100%;"></div>
-            {% else %} 
-              <div class="thumb" title="Newer" style="background: url('{{page.next.image}}') no-repeat scroll top center #000000;background-size: 100%;"></div>
-            {% endif %}
+            <div class="thumb" title="Newer" style="background: url('{{page.next.image}}') no-repeat scroll center center #000000;background-size: cover;"></div>
           {% else %} 
-            <div class="thumb" title="Newer" style="background: url('/i/explore.jpg') no-repeat scroll center center #000000;background-size: 100%;"></div>
+            <div class="thumb" title="Newer" style="background: url('/i/explore.jpg') no-repeat scroll center center #000000;background-size: cover"></div>
           {% endif %} 
 
           <div class="thumb_desc">{{page.next.title}}&nbsp;&nbsp; &gt;</div>
