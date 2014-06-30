@@ -16,9 +16,9 @@ by:
 - 'Jaroslav Kuba'
 - 'Alofok'
 tags:
-twtrdsc: "A labyrinth of bizarre rock formations, shady valleys, deep pine forests. Many castles and chateaus."
+twtrdsc: "A labyrinth of bizarre rock formations, shady valleys and deep pine forests."
 ---
-A protected area about 90 kilometers north-east of Prague. A labyrinth of bizarre rock formations, shady valleys, deep pine forests. Many castles and chateaus. There is a large network of marked trails for hiking. The "rock towns" are the paradise for climbers. 
+A protected area about 90 kilometers north-east of Prague. I visited this place with my parents when I was a teenager and I still remember the deep impression this labyrinth of bizarre rock formations, shady valleys and deep pine forests made on me.
 
 <!-- img -->
 {% assign image = '/i/czech-republic/cesky-raj/3.jpg' %}

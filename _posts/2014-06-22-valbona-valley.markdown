@@ -18,9 +18,9 @@ by:
 - 'jahmaica'
 tags:
 - 'Prokletije'
-twtrdsc: 'The gem of Prokletije ("Cursed") Mountains and one of the most beautiful unexplored places in Europe. Great hiking.'
+twtrdsc: 'The gem of Prokletije ("Cursed") Mountains and one of the most beautiful unexplored places in Europe.'
 ---
-Valbona Valley National Park is a protected area in Albania. The gem of Prokletije ("Cursed") Mountains and one of the most beautiful unexplored places in Europe.  Tourism in Valbona is still operates very much as an extension of the age-old rules of hospitality. Forests, rugged mountain peaks, remote villages. Great hiking.
+Valbona Valley National Park is the gem of Prokletije ("Cursed") Mountains and one of the most beautiful unexplored places in Europe. Tourism in Valbona still operates very much as an extension of the age-old rules of hospitality. Forests, rugged mountain peaks, remote villages. THAT is exactly the kind of trekking I love.
 
 <!-- img -->
 {% assign image = '/i/albania/valbona-valley/2.jpg' %}

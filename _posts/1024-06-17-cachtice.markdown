@@ -16,8 +16,7 @@ by:
 tags:
 twtrdsc: "A beautiful place with a dark past - countess Báthory was accused of torturing and killing hundreds of girls within the walls of this castle."
 ---
-A castle ruin located 3 km from the village of Čachtice, Slovakia. Built in the 13th century.<br />
-A beautiful place with a dark past - infamous countess Elizabeth Báthory de Ecsed was accused of torturing and killing hundreds of girls within the walls of this castle.
+A castle ruin located 3 km from the village of Čachtice in Slovakia. I have put it on my list of places to visit because it's a beautiful place with a powerful dark atmosphere - infamous countess Elizabeth Báthory de Ecsed was accused of torturing and killing hundreds of girls within the walls of this castle.
 
 <!-- img -->
 {% assign image = '/i/slovakia/cachtice/4.jpg' %}

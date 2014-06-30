@@ -20,10 +20,10 @@ image: '/i/turkey/patara/roman-arch.jpg'
 imageby: 'photo <a href="http://www.bigstockphoto.com/image-47565955/stock-photo-ancient-gate">theataraxia</a>'
 imagealt: "Arch of Mettius Modestus, 1st century AD, Patara, Turkey"
 imageheight: 533
-twtrdsc: 'According to mythology the city was founded by Patarus, a son of Apollo. Patara’s oracle was said to rival that at Delphi.'
+twtrdsc: 'An important naval base during the wars of Alexander the Great’s successors and later a thriving port within the Roman Empire.'
 imagedesc: 'Arch of Mettius Modestus, 1st century AD.'
 ---
-Patara is in my travel wish list because I've been fascinated by Roman ruins since I read "I, Claudius". Ancient Patara was an important naval base during the wars of Alexander the Great’s successors and later became a thriving port within the Roman Empire. According to mythology the city was founded by Patarus, a son of Apollo. Patara’s oracle at the renown temple of Apollo was said to rival that at Delphi. This place is soaked with history.
+Patara is in my travel wish list because I've been fascinated by Roman ruins since I read "I, Claudius". Ancient Patara was an important naval base during the wars of Alexander the Great’s successors and later became a thriving port within the Roman Empire. This place is soaked with history. According to mythology the city was founded by Patarus, a son of Apollo. Patara’s oracle at the renown temple of Apollo was said to rival that at Delphi.
 
 <!-- img -->
 {% assign image = '/i/turkey/patara/bay.jpg' %}

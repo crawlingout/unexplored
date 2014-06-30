@@ -19,7 +19,7 @@ imagelink: http://www.flickr.com/photos/fabulousfabs/6079525355
 imagealt: "Santa Cruz trek, Huaraz, Peru"
 imagedesc: "Santa Cruz trek."
 imageheight: 600
-twtrdsc: 'The region surrounding this city in the heart of Cordiliera Blanca is a paradise for trekkers.'
+twtrdsc: 'The region surrounding Huaraz, a city in the heart of Cordiliera Blanca, is a paradise for trekkers.'
 ---
 Huaraz, the city in the heart of Cordiliera Blanca at an altitude greater than 3000 meters, is in my travel bucket list because from what I hear, the surrounding region is a trekker's paradise. Trekking or biking through that breathtaking mountain scenery would be awesome and this area is less touristy than famous trekking locations like the Inca trail.
 

@@ -18,9 +18,9 @@ by:
 - 'David McGregor'
 - 'Aleksandar Todorovic'
 tags:
-twtrdsc: "Dense Mediterranean forest. Numerous chasms and gorges. Stunning scenery and peaceful atmosphere."
+twtrdsc: "Dense Mediterranean forest, numerous chasms and gorges, stunning scenery and peaceful atmosphere."
 ---
-An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean forest. Numerous chasms and gorges. Stunning scenery and peaceful atmosphere. Exactly the kind of place I like.
+An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean forest, numerous chasms and gorges, stunning scenery and peaceful atmosphere. Exactly the kind of place I like.
 
 {% assign image = '/i/croatia/mljet-island/monastery.jpg' %}
 {% assign imagewidth = 800 %}
