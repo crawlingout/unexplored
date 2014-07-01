@@ -34,7 +34,11 @@
     <!-- Facebook Open Graph -->
     <meta property="fb:app_id" content="{{ site.fbappid }}"/>
     <meta property="og:title" content="{{ page.title }}{% if page.country %}, {{ page.country }}{% endif %}"/>
+    {% if page.twtrdsc %}
+    <meta property="og:description" content="{{ page.twtrdsc }}"/>
+    {% else %}
     <meta property="og:description" content="{{ site.description }}"/>
+    {% endif %}
     {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
     {% else %}
@@ -82,10 +86,6 @@
         <h1><a href="/">{{ site.name }}</a></h1>
 
         <h2>"off the beaten path" travel inspiration</h2>
-
-        <!-- <div id="subscribe">
-          &nbsp;<a class="twittercolor" href="/feed.xml">twitter</a> &nbsp;&nbsp; <a class="facebookcolor" href="/feed.xml">facebook</a> &nbsp;&nbsp; <a class="atom-rss" href="/feed.xml">RSS</a>
-        </div> -->
           
     </div>
 
