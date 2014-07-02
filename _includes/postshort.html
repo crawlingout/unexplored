@@ -5,7 +5,7 @@
         <a href="{{ post.url }}">
             <img class="my" src="{{ post.image }}" width="800" height="{{ post.imageheight }}" alt="{{ post.imagealt }}">
         </a>
-        <div class="bg"></div>
+        {% unless post.nodarkbg %}<div class="bg"></div>{% endunless %}
         <h2 class="white"><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {% if post.imageby %}
         <div class="imageby onpic">
