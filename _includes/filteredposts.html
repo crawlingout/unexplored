@@ -1,6 +1,10 @@
 <div class="filtered">
     <a class="filteredby back" href="/browse" title="back to browsing">
-        Filtered by {{ page.type }}: <strong>{{ page.tag }}</strong>
+        {% if page.type == "country" %}
+            Interesting places: <strong>{{ page.tag }}</strong>
+        {% else %}
+            Filtered by {{ page.type }}: <strong>{{ page.tag }}</strong>
+        {% endif %}
     </a>
     <a href="/" class="close filteredby" title="remove the filter">&times;</a>
     <div class="clear"></div>
