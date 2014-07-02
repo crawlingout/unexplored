@@ -4,12 +4,12 @@ title:  'Valbona Valley'
 date:   2014-06-22 20:00:00
 country: Albania
 continent: Europe
-image: '/i/albania/valbona-valley/1.jpg'
-imageby: 'photo <a href="http://www.bigstockphoto.com/image-39972784/stock-photo-panorama-of-mountain-range-albanian-alps-from-the-trail-that-by-the-pass-of-valbona-go-down-into-th">ollirg</a>'
+image: '/i/albania/valbona-valley/2.jpg'
+imageby: 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/strobose/8941755219">Stef & K</a>'
 imagedesc: ''
-imagelink: false
-imagealt: "Valbona National Park, Prokletije, Albania"
-imageheight: 530
+imagelink: "http://www.flickr.com/photos/strobose/8941755219"
+imagealt: "Valbona river, Valbona National Park, Prokletije, Albania"
+imageheight: 534
 by:
 - 'ollirg'
 - 'Stef & K'
@@ -23,12 +23,12 @@ twtrdsc: "The gem of Prokletije Mountains and one of the most beautiful unexplor
 Valbona Valley National Park is the gem of Prokletije ("Cursed") Mountains and one of the most beautiful unexplored places in Europe. Tourism in Valbona still operates very much as an extension of the age-old rules of hospitality. Forests, rugged mountain peaks, remote villages. THAT is exactly the kind of trekking I love.
 
 <!-- img -->
-{% assign image = '/i/albania/valbona-valley/2.jpg' %}
+{% assign image = '/i/albania/valbona-valley/1.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/strobose/8941755219">Stef & K</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/strobose/8941755219" %}
-{% assign imagealt = "Valbona river, Valbona National Park, Prokletije, Albania" %}
-{% assign imageheight = 534 %}
+{% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-39972784/stock-photo-panorama-of-mountain-range-albanian-alps-from-the-trail-that-by-the-pass-of-valbona-go-down-into-th">ollirg</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Valbona National Park, Prokletije, Albania" %}
+{% assign imageheight = 530 %}
 {% assign imagedesc = "" %}
 {% include image.html %}
 
