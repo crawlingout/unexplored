@@ -1,0 +1,81 @@
+---
+layout: post
+title:  'Gordes'
+date:   2014-07-03 20:00:00
+country: France
+continent: Europe
+
+by:
+- 'Andrea Schaffer'
+- 'Andrew Lawson'
+- 'nonuou'
+- 'Couleur Lavande'
+- 'Ming-yen Hsu'
+
+tags:
+- Provence
+
+image: '/i/france/gordes/village.jpg'
+imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/andylawson/6064593795/in/set-72157627482611318">Andrew Lawson</a>'
+imagelink: http://www.flickr.com/photos/andylawson/6064593795/in/set-72157627482611318
+imagealt: "Gordes, Provence, France"
+imageheight: 534
+imagedesc: ""
+
+twtrdsc: "Gordes is one of those beautiful villages of Provence, where I imagine I could roam for days, soaking up the sunlight"
+---
+I've never been to Provence, but I adore Paul Cézanne and Vincent van Gogh. Provence is in my travel bucket list because of how I imagine it based on their paintings - peaceful and intense at the same time. Gordes is one of those beautiful villages of Provence, where I imagine I could roam for days, soaking up the sunlight.
+
+{% assign image = '/i/france/gordes/3.jpg' %}
+{% assign imagewidth = 534 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/aschaf/4830721110/in/set-72157624460926371">Andrea Schaffer</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/aschaf/4830721110/in/set-72157624460926371" %}
+{% assign imagealt = "Gordes, Provence, France" %}
+{% assign imageheight = 801 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/france/gordes/4.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/aschaf/4830162231/in/set-72157624460926371">Andrea Schaffer</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/aschaf/4830162231/in/set-72157624460926371" %}
+{% assign imagealt = "Gordes, Provence, France" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/france/gordes/5.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/andylawson/6065137552/in/set-72157627482611318">Andrew Lawson</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/andylawson/6065137552/in/set-72157627482611318" %}
+{% assign imagealt = "Gordes, Provence, France" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/france/gordes/6.jpg' %}
+{% assign imagewidth = 534%}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/nonuou/8053119984">nonuou</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/nonuou/8053119984" %}
+{% assign imagealt = "Gordes, Provence, France" %}
+{% assign imageheight = 712 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/france/gordes/7.jpg' %}
+{% assign imagewidth = 534 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/couleurlavande/6172949462">Couleur Lavande</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/couleurlavande/6172949462" %}
+{% assign imagealt = "Gordes, Provence, France" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/france/gordes/beautiful-village.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/myhsu/4800931475/in/set-72157624377155315">Ming-yen Hsu</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/myhsu/4800931475/in/set-72157624377155315" %}
+{% assign imagealt = "Gordes, Provence, France" %}
+{% assign imageheight = 532 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
