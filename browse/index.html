@@ -11,7 +11,7 @@ title: 'unexplored paradises | browse'
     {% for post in site.posts %}
         {% if country contains post.country %}{% else %}
             <div class="tag">
-                <a href="/browse/{{ post.country | replace:' ','-' | downcase }}" class="tag">{{ post.country }}</a>
+                <a href="/browse/{{ post.country | replace:' ','-' | downcase }}">{{ post.country }}</a>
             </div>
             {% capture country %}{{ country }}{{ post.country }}{% endcapture %}
         {% endif %}
@@ -24,7 +24,7 @@ title: 'unexplored paradises | browse'
 
     {% for tag in site.tags %}
         <div class="tag">
-            <a href="/browse/{{ tag | first | replace:' ','-' | downcase }}" class="tag">{{ tag | first }}</a>
+            <a href="/browse/{{ tag | first | replace:' ','-' | downcase }}">{{ tag | first }}</a>
         </div>
     {% endfor %}
     </div>
