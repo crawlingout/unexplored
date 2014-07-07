@@ -1,0 +1,82 @@
+---
+layout: post
+title:  'Durmitor'
+date:   2014-07-05 20:00:00
+country: Montenegro
+continent: Europe
+
+image: '/i/montenegro/durmitor/valley.jpg'
+imageby: 'photo <a href="http://www.bigstockphoto.com/image-53362030/stock-photo-fantastic-view-tara-river-gorge-is-the-second-biggest-canyon-in-the-world-and-the-biggest-one-in-e">Leonid Tit</a>'
+imagelink: false
+imagealt: "Durmitor National Park, Montenegro"
+imageheight: 533
+imagedesc: ""
+
+by:
+- 'Leonid Tit'
+- 'Mecklreiter'
+- 'Pieter Schepens'
+- 'Jason Rogers'
+- 'Yves G'
+tags:
+
+twtrdsc: "It is UNESCO World Heritage Site but I've been told that it's still pretty raw and not very touristy."
+---
+I am not sure Durmitor National Park can be described as "off the beaten path" because it is UNESCO World Heritage Site but I've been told that it's still pretty raw and not very touristy.
+
+<!-- img -->
+{% assign image = '/i/montenegro/durmitor/beautiful-mountains.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/tobishoots/9972682776">Mecklreiter</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/tobishoots/9972682776" %}
+{% assign imagealt = "Durmitor National Park, Montenegro" %}
+{% assign imageheight = 534 %}
+{% include image.html %}
+
+{% assign image = '/i/montenegro/durmitor/mountain-lake.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/kpi/2866939363">Pieter Schepens</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/kpi/2866939363" %}
+{% assign imagealt = "Durmitor National Park, Montenegro" %}
+{% assign imageheight = 532 %}
+{% include image.html %}
+
+{% assign image = '/i/montenegro/durmitor/cow.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/tobishoots/9972714753">Mecklreiter</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/tobishoots/9972714753" %}
+{% assign imagealt = "Durmitor National Park, Montenegro" %}
+{% assign imageheight = 534 %}
+{% include image.html %}
+
+{% assign image = '/i/montenegro/durmitor/forrest.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/kpi/2866937689/in/set-72157607354614510">Pieter Schepens</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/kpi/2866937689/in/set-72157607354614510" %}
+{% assign imagealt = "Durmitor National Park, Montenegro" %}
+{% assign imageheight = 532 %}
+{% include image.html %}
+
+{% assign image = '/i/montenegro/durmitor/cows.jpg' %}
+{% assign imagewidth = 681 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/restlessglobetrotter/3925599744">Jason Rogers</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/restlessglobetrotter/3925599744" %}
+{% assign imagealt = "Durmitor National Park, Montenegro" %}
+{% assign imageheight = 1024 %}
+{% include image.html %}
+
+{% assign image = '/i/montenegro/durmitor/cottage.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/yves_g/8033909180">Yves G</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/yves_g/8033909180" %}
+{% assign imagealt = "Durmitor National Park, Montenegro" %}
+{% assign imageheight = 523 %}
+{% include image.html %}
+
+{% assign image = '/i/montenegro/durmitor/remote-mountains.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/tobishoots/9972685846">Mecklreiter</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/tobishoots/9972685846" %}
+{% assign imagealt = "Durmitor National Park, Montenegro" %}
+{% assign imageheight = 534 %}
+{% include image.html %}
