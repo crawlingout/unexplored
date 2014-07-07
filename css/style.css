@@ -165,7 +165,7 @@ button::-moz-focus-inner { border: 0; }
 .title h2.white a {
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #000000;
-    width: 630px;
+    width: 700px;
     height: 65px;
 }
 .title h2.dark a {

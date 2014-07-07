@@ -22,7 +22,7 @@ imagealt: "Gordes, Provence, France"
 imageheight: 534
 imagedesc: ""
 
-twtrdsc: "Gordes is one of those beautiful villages of Provence, where I imagine I could roam for days, soaking up the sunlight"
+twtrdsc: "Gordes is one of those beautiful villages of Provence, where I imagine I could roam for days, soaking up the sunlight."
 ---
 I've never been to Provence, but I adore Paul Cézanne and Vincent van Gogh. Provence is in my travel bucket list because of how I imagine it based on their paintings - peaceful and intense at the same time. Gordes is one of those beautiful villages of Provence, where I imagine I could roam for days, soaking up the sunlight.
 
