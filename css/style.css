@@ -201,7 +201,7 @@ button::-moz-focus-inner { border: 0; }
 
 .subscribe {
     color: #e4e4e4;
-    padding: 20px 30px;
+    padding: 20px 0;
 }
 
 .post {
@@ -267,6 +267,10 @@ button::-moz-focus-inner { border: 0; }
 #footer {
     color: #C0C0C0;
     padding: 30px 0 150px;
+}
+
+#footer .subscribe {
+    padding: 20px 30px;
 }
 
 #links {
