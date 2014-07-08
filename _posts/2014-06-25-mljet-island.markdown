@@ -7,11 +7,11 @@ continent: Europe
 image: '/i/croatia/mljet-island/view.jpg'
 imageheight: 558
 imagealt: "Mljet Island, Croatia"
-imageby: 'photo <a title="license CC BY-SA 2.0" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="https://flic.kr/p/giEqqj">Carine06</a>'
+imageby: 'photo <a title="license CC BY-SA 2.0" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="https://flic.kr/p/giEqqj">Kate</a>'
 imagelink: 'https://flic.kr/p/giEqqj'
 imagedesc: ""
 by:
-- 'Carine06'
+- 'Kate'
 - 'Nik_Sorokin'
 - 'Ocus Focus'
 - 'karlnorling'
