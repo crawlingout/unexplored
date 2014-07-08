@@ -5,7 +5,7 @@ date:   2014-06-30 20:00:00
 country: Peru
 continent: South America
 by:
-- 'fabulousfabs'
+- 'butforthesky.com'
 - 'rechitansorin'
 - 'Léo Guellec'
 - 'Madeleine Holland'
@@ -14,7 +14,7 @@ by:
 tags:
 
 image: '/i/peru/huaraz/santa-cruz-trek.jpg'
-imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/fabulousfabs/6079525355">fabulousfabs</a>'
+imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/fabulousfabs/6079525355">butforthesky.com</a>'
 imagelink: http://www.flickr.com/photos/fabulousfabs/6079525355
 imagealt: "Santa Cruz trek, Huaraz, Peru"
 imagedesc: "Santa Cruz trek."
