@@ -34,11 +34,7 @@
     <!-- Facebook Open Graph -->
     <meta property="fb:app_id" content="{{ site.fbappid }}"/>
     <meta property="og:title" content="{{ page.title }}{% if page.country %}, {{ page.country }}{% endif %}"/>
-    {% if page.twtrdsc %}
-    <meta property="og:description" content="{{ page.twtrdsc }}"/>
-    {% else %}
-    <meta property="og:description" content="{{ site.description }}"/>
-    {% endif %}
+    <meta property="og:description" content="Photographs of extraordinary travel destinations."/>
     {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
     {% else %}
@@ -50,20 +46,6 @@
     {% else %}
     <meta property="og:url" content="{{ site.url }}{{ page.url }}/"/>
     <meta property="og:type" content="article"/>
-    {% endif %}
-
-
-    {% if page.image %}
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@unXpl0red">
-    <meta name="twitter:creator" content="@unXpl0red">
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-    <meta name="twitter:title" content="{{ page.title }}{% if page.country %}, {{ page.country }}{% endif %}">
-    <meta name="twitter:description" content="{% if page.twtrdsc %}{{ page.twtrdsc }} {% endif %}{{ page.imageby | strip_html | replace: 'photo', 'Photo' }}.">
-    <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
-    <meta name="twitter:image:width" content="800">
-    <meta name="twitter:image:height" content="{{ page.imageheight }}">
     {% endif %}
 
 
