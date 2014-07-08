@@ -10,15 +10,7 @@ imagealt: "Mljet Island, Croatia"
 imageby: 'photo <a title="license CC BY-SA 2.0" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="https://flic.kr/p/giEqqj">Kate</a>'
 imagelink: 'https://flic.kr/p/giEqqj'
 imagedesc: ""
-by:
-- 'Kate'
-- 'Nik_Sorokin'
-- 'Ocus Focus'
-- 'karlnorling'
-- 'David McGregor'
-- 'Aleksandar Todorovic'
 tags:
-twtrdsc: "Dense Mediterranean forest, numerous chasms and gorges, stunning scenery and peaceful atmosphere."
 ---
 An island located south of the Pelješac peninsula, Croatia. Dense Mediterranean forest, numerous chasms and gorges, stunning scenery and peaceful atmosphere. Exactly the kind of place I like.
 

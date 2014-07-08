@@ -4,6 +4,7 @@ title:  'Durmitor'
 date:   2014-07-05 20:00:00
 country: Montenegro
 continent: Europe
+tags:
 
 image: '/i/montenegro/durmitor/valley.jpg'
 imageby: 'photo <a href="http://www.bigstockphoto.com/image-53362030/stock-photo-fantastic-view-tara-river-gorge-is-the-second-biggest-canyon-in-the-world-and-the-biggest-one-in-e">Leonid Tit</a>'
@@ -11,16 +12,6 @@ imagelink: false
 imagealt: "Durmitor National Park, Montenegro"
 imageheight: 533
 imagedesc: ""
-
-by:
-- 'Leonid Tit'
-- 'Mecklreiter'
-- 'Pieter Schepens'
-- 'Jason Rogers'
-- 'Yves G'
-tags:
-
-twtrdsc: "It is UNESCO World Heritage Site but I've been told that it's still pretty raw and not very touristy."
 ---
 I am not sure Durmitor National Park can be described as "off the beaten path" because it is UNESCO World Heritage Site but I've been told that it's still pretty raw and not very touristy.
 

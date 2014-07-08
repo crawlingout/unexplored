@@ -9,12 +9,7 @@ imageheight: 532
 imagealt: "Čachtice Castle, Slovakia"
 imageby: 'photo <a href="http://www.bigstockphoto.com/image-45105430/stock-photo-ruin-of-castle-cachtice-slovakia">TTstudio</a>'
 imagedesc: ''
-by:
-- 'TTstudio'
-- 'phbcz'
-- 'Ján Sokoly'
 tags:
-twtrdsc: "A beautiful place with a dark past - countess Báthory was accused of torturing and killing hundreds of girls within the walls of this castle."
 ---
 A castle ruin located 3 km from the village of Čachtice in Slovakia. I have put it on my list of places to visit because it's a beautiful place with a powerful dark atmosphere - infamous countess Elizabeth Báthory de Ecsed was accused of torturing and killing hundreds of girls within the walls of this castle.
 

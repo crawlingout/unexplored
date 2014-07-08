@@ -9,14 +9,9 @@ imageheight: 534
 imagealt: "Castillo de Xivert, Spain"
 imageby: 'photo <a href="http://www.bigstockphoto.com/image-49864226/stock-photo-castillo-de-xivert">imagefinder</a>'
 imagedesc: ''
-by:
-- 'imagefinder'
-- 'Aureliano'
-- 'pilgrimego'
 tags:
 - 'Moors'
 - 'Templars'
-twtrdsc: "A ruin of a fortress built by Moors in the 10th century and owned by Templars in the 15th century."
 ---
 This fortress located in the National Park of the Sierra de Irta was built in the 10th century as a part of the chain of Moorish forts guarding the passage to Valencia. I added Castillo de Xivert to my collection of places I want to see because it was owned by Templars in the 15th century. The history of the Knights Templar is fascinating and I like soaking up the atmosphere of sites associated with the Order of the Temple.
 
