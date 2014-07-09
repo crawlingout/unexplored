@@ -88,6 +88,15 @@ Huaraz, a city in the heart of Cordiliera Blanca at an altitude greater than 300
 {% assign imageheight = 600 %}
 {% include image.html %}
 
+{% assign image = '/i/peru/huaraz/lake-69.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jeffreywarren/246875326/in/set-72157594290248505">Jeff Warren</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/jeffreywarren/246875326/in/set-72157594290248505" %}
+{% assign imagealt = "Lake 69 near Huaraz, Peru" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
 {% assign image = '/i/peru/huaraz/hike.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/johnjodeery/8161339723">johnjodeery</a>' %}
