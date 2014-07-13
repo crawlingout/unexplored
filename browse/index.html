@@ -7,14 +7,20 @@ title: 'unexplored paradises | browse'
     <div class="tagslist">
     <h2>browse by country</h2>
 
-    {% assign countrys = '' %}
+    {% assign countries = '' %}
     {% for post in site.posts %}
-        {% if country contains post.country %}{% else %}
-            <div class="tag">
-                <a href="/browse/{{ post.country | replace:' ','-' | downcase }}">{{ post.country }}</a>
-            </div>
-            {% capture country %}{{ country }}{{ post.country }}{% endcapture %}
+        {% if countries contains post.country %}{% else %}
+            {% capture countries %}{{ countries }}~{{ post.country }}{% endcapture %}
         {% endif %}
+    {% endfor %}
+
+    {% assign sorted_countries = countries | split:"~" | sort %}
+    {% for country in sorted_countries %}
+        {% unless country == '' %}
+        <div class="tag">
+            <a href="/browse/{{ country | replace:' ','-' | downcase }}">{{ country }}</a>
+        </div>
+        {% endunless %}
     {% endfor %}
     </div>
     
@@ -22,10 +28,18 @@ title: 'unexplored paradises | browse'
     <div class="tagslist" style="border-left: 1px solid #EAEAEA;">
     <h2>browse by tag</h2>
 
+    {% assign tags = '' %}
     {% for tag in site.tags %}
+        {% capture tags %}{{ tags }}~{{ tag | first }}{% endcapture %}
+    {% endfor %}
+
+    {% assign sorted_tags = tags | split:"~" | sort %}
+    {% for tag in sorted_tags %}
+        {% unless tag == '' %}
         <div class="tag">
-            <a href="/browse/{{ tag | first | replace:' ','-' | downcase }}">{{ tag | first }}</a>
+            <a href="/browse/{{ tag | replace:' ','-' | downcase }}">{{ tag }}</a>
         </div>
+        {% endunless %}
     {% endfor %}
     </div>
 
