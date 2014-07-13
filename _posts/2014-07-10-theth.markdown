@@ -1,0 +1,48 @@
+---
+layout: post
+title:  'Theth'
+date:   2014-07-10 20:00:00
+country: Albania
+continent: Europe
+image: '/i/albania/theth/mountains.jpg'
+imageby: 'photo <a href="http://www.bigstockphoto.com/image-7090649/stock-photo-prokletije-mountains%2C-view-from-thethi-village">salajean</a>'
+imagelink: false
+imagealt: "Theth National Park, Prokletije, Albania"
+imageheight: 532
+tags:
+- 'Prokletije'
+---
+Friends who visited Albania told me that it's beautiful and a lot less touristy compared to western Europe. It's also a lot cheaper. It seems to be a great travel destination for a budget traveler looking for unspoiled places.
+
+<!-- img -->
+{% assign image = '/i/albania/theth/mountain-view.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AThethiValley.jpg">User:Doron</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Theth Valley, a view from the pass on the Shkodra road, Albania" %}
+{% assign imageheight = 928%}
+{% include image.html %}
+
+{% assign image = '/i/albania/theth/beautiful-mountains.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File:Theth_Radohima_MajaArapit.jpg">Albinfo</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Theth, Albania, with Maja Radohimës (left) and Maja Harapit (right)" %}
+{% assign imageheight = 567 %}
+{% include image.html %}
+
+{% assign image = '/i/albania/theth/mountain-range.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AThethi_Mountains_Panorama.jpg">AHHB6184</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Theth National Park, Prokletije, Albania" %}
+{% assign imageheight = 310 %}
+{% include image.html %}
+
+{% assign image = '/i/albania/theth/beautiful-valley.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-40731412/stock-photo-theth%2C-prokletije-mountains">salajean</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Theth National Park, Prokletije, Albania" %}
+{% assign imageheight = 532 %}
+{% include image.html %}
