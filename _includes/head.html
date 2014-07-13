@@ -4,7 +4,7 @@
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <link rel="shortcut icon" href="/i/favicon.ico" />
 
-    <title>{{ page.title }}{% if page.country %}, {{ page.country }}{% endif %}</title>
+    <title>{{ page.title }}{% if page.country %}, {{ page.country }} - photos{% endif %}</title>
     <meta name="description" content="{{ site.description }}" />
     
     <meta content="width=device-width" name="viewport">
@@ -33,7 +33,7 @@
 
     <!-- Facebook Open Graph -->
     <meta property="fb:app_id" content="{{ site.fbappid }}"/>
-    <meta property="og:title" content="{{ page.title }}{% if page.country %}, {{ page.country }} - photos{% endif %}"/>
+    <meta property="og:title" content="{{ page.title }}{% if page.country %}, {{ page.country }}{% endif %}"/>
     <meta property="og:description" content="Photographs of extraordinary travel destinations."/>
     {% if page.image %}
     <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
