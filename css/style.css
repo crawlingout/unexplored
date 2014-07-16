@@ -101,7 +101,7 @@ button::-moz-focus-inner { border: 0; }
     width: 800px;
 }
 
-#rightcolumn {
+.rightcolumn {
     float: right;
     width: 302px;
 }
