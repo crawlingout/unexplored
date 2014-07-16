@@ -1,0 +1,40 @@
+---
+layout: post
+title:  'Gýmeš'
+date:   2014-07-11 20:00:00
+country: Slovakia
+continent: Europe
+tags:
+
+image: '/i/slovakia/gymes/ruin.jpg'
+imageheight: 371
+imagealt: "Gýmeš, Slovakia"
+imageby: 'photo <a href="http://www.bigstockphoto.com/image-41733136/stock-photo-ruins-of-castle-gymes-slovakia">TTstudio</a>'
+imagelink: false
+imagedesc: ""
+---
+Gýmeš is a ruin of a Gothic castle built in the 13th century. For some reason, I have a thing for old castles and ruins. It's like the past is still there. I can vividly imagine all the things that might have happened there over the centuries.
+
+<!-- img -->
+{% assign image = '/i/slovakia/gymes/4.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageheight = 517 %}
+{% assign imagealt = "Gýmeš, Slovakia" %}
+{% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-65157364/stock-photo-ruin-of-castle-gymes">Vrabelpeter1</a>' %}
+{% include image.html %}
+
+<!-- img -->
+{% assign image = '/i/slovakia/gymes/3.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageheight = 533 %}
+{% assign imagealt = "Gýmeš, Slovakia" %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AGymes_castle_ID_403-14431.JPG">Miroslav Svorc</a>' %}
+{% include image.html %}
+
+<!-- img -->
+{% assign image = '/i/slovakia/gymes/castle-ruin.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageheight = 396 %}
+{% assign imagealt = "Gýmeš, Slovakia" %}
+{% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-53222248/stock-photo-ruins-of-castle-gymes-slovakia">TTstudio</a>' %}
+{% include image.html %}
