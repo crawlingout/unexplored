@@ -50,4 +50,4 @@ When I am the foreigner in my travels to Spain or England, I go to places everyo
 
 There are a lot of sites where you can find info about Paris, Rome or Barcelona. Everyone knows about the Eiffel Tower, Taj Mahal, Machu Picchu and the pyramids. I want to create a site where travelers, backpackers and nomads can seek inspiration for their next adventure and let each other know about awesome places that are relatively unknown.
 
-Do you want to help me and <a href="../submit">let me know</a> about locations like that? I will try to build a collection of places worth visiting, with images, maps and location searches. We can help each other discover unexplored paradises of the world.
+Do you want to help me and <a href="../submit">let me know</a> about locations like that? I will try to build a collection of places worth visiting. We can help each other discover unexplored paradises of the world.
