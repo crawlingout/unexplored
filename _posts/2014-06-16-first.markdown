@@ -7,7 +7,6 @@ imageheight: 352
 imagealt: "Mountains, Slovakia"
 imageby: 'photo <a href="http://www.bigstockphoto.com/image-45566710/stock-photo-mountain-forest-panorama-slovakia">TTstudio</a>'
 imagedesc: ''
-disqus: true
 ---
 <strong>Dear travelers</strong>,<br />
 I think we can help each other discover beautiful places around the world.
