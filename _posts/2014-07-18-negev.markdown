@@ -1,0 +1,90 @@
+---
+layout: post
+title:  'Negev'
+date:   2014-07-18 20:00:00
+country: Israel
+continent: Asia
+tags:
+- 'Israel National Trail'
+
+image: '/i/israel/negev/desert.jpg'
+imageby: 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/visitisrael/7717013384">israeltourism</a>'
+imagelink: http://www.flickr.com/photos/visitisrael/7717013384
+imagealt: "Negev Desert, Israel"
+imageheight: 534
+imagedesc: ""
+---
+I have never been to any desert but for some reason deserts fascinate me. The heat, tough conditions, loneliness and wilderness... just being there seems like an adventure. There are many awesome places I would like to visit in Israel but the Negev Desert seems to be one of the the most interesting areas to explore.
+
+<!-- img -->
+{% assign image = '/i/israel/negev/colors-of-desert.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/traitlinburke/2642247084">Chalky Lives</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/traitlinburke/2642247084" %}
+{% assign imagealt = "Negev Desert, Israel" %}
+{% assign imageheight = 563 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/israel/negev/palm-trees-in-desert.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/visitisrael/7717009078/in/set-72157630913474720">israeltourism</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/visitisrael/7717009078/in/set-72157630913474720" %}
+{% assign imagealt = "Negev Desert, Israel" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/israel/negev/red-creek.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/chanycrystal/4200785645">chany crystal</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/chanycrystal/4200785645" %}
+{% assign imagealt = "Red Creek, Negev Desert, Israel" %}
+{% assign imageheight = 763 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/israel/negev/trees-in-desert.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/shankbone/3387535321">David Shankbone</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/shankbone/3387535321" %}
+{% assign imagealt = "Negev Desert, Israel" %}
+{% assign imageheight = 550 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/israel/negev/desert-view.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/mockstar/233944328/in/set-72157594268518434">David Poe</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/mockstar/233944328/in/set-72157594268518434" %}
+{% assign imagealt = "Negev Desert, Israel" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/israel/negev/desert-life.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/visitisrael/7717177404/in/set-72157630913474720">israeltourism</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/visitisrael/7717177404/in/set-72157630913474720" %}
+{% assign imagealt = "Negev Desert, Israel" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/israel/negev/beautiful-desert.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/k1llyrid0ls/4528453243">Killy Ridols</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/k1llyrid0ls/4528453243" %}
+{% assign imagealt = "Negev Desert, Israel" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/israel/negev/acacia.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 3.0 Unported" href="http://creativecommons.org/licenses/by/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File:Negev_Shita.jpg#mediaviewer/File:Negev_Shita.jpg">Free Israel Photos</a>' %}
+{% assign imagelink = false %}
+{% assign imagealt = "Acacia, Negev Desert, Israel" %}
+{% assign imageheight = 491 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
