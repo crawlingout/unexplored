@@ -35,8 +35,8 @@ The Cocora valley is located in the Central Cordillera of the Andean mountains. 
 
 {% assign image = '/i/colombia/valle-de-cocora/path-in-valley.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/28416709@N06/8388019115">Stevan Nicholas</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/28416709@N06/8388019115" %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="https://flic.kr/p/dMdMRe">Stevan Nicholas</a>' %}
+{% assign imagelink = "https://flic.kr/p/dMdMRe" %}
 {% assign imagealt = "Valle de Cocora, Colombia" %}
 {% assign imageheight = 536 %}
 {% assign imagedesc = "" %}
