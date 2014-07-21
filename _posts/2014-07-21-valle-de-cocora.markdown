@@ -7,7 +7,7 @@ continent: South America
 tags:
 
 image: '/i/colombia/valle-de-cocora/valley.jpg'
-imageby: 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="ttp://www.flickr.com/photos/elisfanclub/6844848421">Eli Duke</a>'
+imageby: 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/elisfanclub/6844848421">Eli Duke</a>'
 imagelink: http://www.flickr.com/photos/elisfanclub/6844848421
 imagealt: "Valle de Cocora, Colombia"
 imageheight: 534
