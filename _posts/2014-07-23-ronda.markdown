@@ -1,0 +1,97 @@
+---
+layout: post
+title:  'Ronda'
+date:   2014-07-23 20:00:00
+country: Spain
+continent: Europe
+image: '/i/spain/ronda/beautiful-village.jpg'
+imageheight: 533
+imagealt: "Ronda, Spain"
+imageby: 'photo <a title="license CC BY-SA 2.0" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="https://www.flickr.com/photos/jelle82/4737601655">Jelle Oostrom</a>'
+imagelink: https://www.flickr.com/photos/jelle82/4737601655
+tags:
+---
+Ronda is an incredibly photogenic city in Spanish Andalusia. Those views are unbelievable; I want to go to there!
+
+<!-- img -->
+{% assign image = '/i/spain/ronda/awesome-village.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/rociogarro/4427690307">Rocío Garro</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/rociogarro/4427690307" %}
+{% assign imagealt = "Ronda, Spain" %}
+{% assign imagedesc = "" %}
+{% assign imageheight = 670 %}
+{% include image.html %}
+
+{% assign image = '/i/spain/ronda/cliff.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageheight = 533 %}
+{% assign imagealt = "The Puente Nuevo bridge in Ronda, Spain" %}
+{% assign imagedesc = "The Puente Nuevo bridge." %}
+{% assign imageby = 'photo <a title="license CC BY 2.0" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="https://www.flickr.com/photos/wellseo/7971646938">wellseo.de</a>' %}
+{% assign imagelink = "https://www.flickr.com/photos/wellseo/7971646938" %}
+{% include image.html %}
+
+{% assign image = '/i/spain/ronda/bullring.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/andymag/8528290340">Andy Maguire</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/andymag/8528290340" %}
+{% assign imagealt = "The oldest bullfighting ring in Spain" %}
+{% assign imagedesc = "The oldest bullfighting ring in Spain." %}
+{% assign imageheight = 532 %}
+{% include image.html %}
+
+{% assign image = '/i/spain/ronda/view.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/nigel321/5521917749">Nigel Swales</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/nigel321/5521917749" %}
+{% assign imagealt = "The view from Ronda, Spain" %}
+{% assign imagedesc = "" %}
+{% assign imageheight = 600 %}
+{% include image.html %}
+
+<!-- cropped -->
+{% assign image = '/i/spain/ronda/city-gate.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/bjvs/250464243">Benjamin Vander Steen</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/bjvs/250464243" %}
+{% assign imagealt = "Ronda, Spain" %}
+{% assign imagedesc = "" %}
+{% assign imageheight = 533 %}
+{% include image.html %}
+
+{% assign image = '/i/spain/ronda/awesome-view.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/travelswithrosemary/4740952345">Rosemary Dukelow</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/travelswithrosemary/4740952345" %}
+{% assign imagealt = "The view from Ronda, Spain" %}
+{% assign imagedesc = "" %}
+{% assign imageheight = 600 %}
+{% include image.html %}
+
+{% assign image = '/i/spain/ronda/spanish.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/mariaflorine/6718544691">mariaflorine</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/mariaflorine/6718544691" %}
+{% assign imagealt = "Ronda, Spain" %}
+{% assign imagedesc = "" %}
+{% assign imageheight = 535 %}
+{% include image.html %}
+
+{% assign image = '/i/spain/ronda/little-town.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/tomasfano/6478444993">Tomás Fano</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/tomasfano/6478444993" %}
+{% assign imagealt = "Ronda, Spain" %}
+{% assign imagedesc = "" %}
+{% assign imageheight = 534 %}
+{% include image.html %}
+
+{% assign image = '/i/spain/ronda/beautiful-view.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/grimmnitz/4923749474">bgrimmni</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/grimmnitz/4923749474" %}
+{% assign imagealt = "The view from Ronda, Spain" %}
+{% assign imagedesc = "" %}
+{% assign imageheight = 534 %}
+{% include image.html %}
