@@ -8,7 +8,11 @@
         </div>
 
         <div id="secondaryfooter">
-          Photos of extraordinary travel destinations.
+          {% if page.title == 'unexplored paradises' %}
+            <strong>Photos of extraordinary travel destinations.</strong>
+          {% else %}
+            <strong>"off the beaten path" travel inspiration</strong>
+          {% endif %}
         </div>
       </div>
 
