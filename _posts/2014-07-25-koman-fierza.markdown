@@ -12,7 +12,7 @@ imagelink: false
 imagealt: "Koman-Fierza, Albania"
 imageheight: 530
 ---
-Koman and Fierza reservoirs are in my travel wish list because of the Koman-Fierza ferry. The boat trip from the hydro-electric dam at Lake Koman through spectacular mountains to the port of Fierza sounds really awesome.
+Koman and Fierza reservoirs are on my travel wish list because of the Koman-Fierza ferry. The boat trip from the hydro-electric dam at Lake Koman through spectacular mountains to the port of Fierza sounds really awesome.
 
 <!-- img -->
 {% assign image = '/i/albania/koman-fierza/beautiful-lake.jpg' %}
