@@ -1,7 +1,7 @@
 <div class="filtered">
     <a class="filteredby back" href="/browse" title="back to browsing">
         {% if page.type == "country" %}
-            Interesting places in <strong>{{ page.tag }}</strong>
+            Interesting places in <strong>{{ page.tag | replace:'The','the' }}</strong>
         {% else %}
             Filtered by {{ page.type }}: <strong>{{ page.tag }}</strong>
         {% endif %}
