@@ -1,0 +1,29 @@
+---
+layout: post
+title:  'Strečno'
+date:   2014-07-25 20:00:00
+country: Slovakia
+continent: Europe
+image: '/i/slovakia/strecno/castle-ruin.jpg'
+imageheight: 516
+imagealt: "Strečno Castle ruins, Slovakia"
+imageby: 'photo <a href="http://www.bigstockphoto.com/image-48165128/stock-photo-slovakia-ruin-of-castle-strecno">TTstudio</a>'
+tags:
+---
+The ruin of a Gothic castle built in the 14th century on a rocky cliff above the river Váh is a must-see if you are in the region. The views from the Strečno Castle are magnificent and the whole area around it is beautiful.
+
+<!-- img -->
+{% assign image = '/i/slovakia/strecno/view.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageheight = 533 %}
+{% assign imagealt = "A view from Strečno Castle ruins, Slovakia" %}
+{% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-61665695/stock-photo-ruins-of-the-strecno-castle-and-vah-river">Vrabelpeter1</a>' %}
+{% include image.html %}
+
+<!-- img -->
+{% assign image = '/i/slovakia/strecno/ruin.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageheight = 533 %}
+{% assign imagealt = "Strečno Castle ruins, Slovakia" %}
+{% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-19634030/stock-photo-castle-strecno">MartinFredy</a>' %}
+{% include image.html %}
