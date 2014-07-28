@@ -1,11 +1,11 @@
 <div class="filtered">
     <a class="filteredby back" href="/browse" title="back to browsing">
-        Interesting places related to <strong>{{ page.tag }}</strong>
+        Interesting places related to <strong>{{ page.title }}</strong>
     </a>
     <a href="/" class="close filteredby" title="remove the filter">&times;</a>
     <div class="clear"></div>
 </div>
 
-{% for post in site.tags[page.tag] %}
+{% for post in site.tags[page.title] %}
     {% include postshort.html %}
 {% endfor %}

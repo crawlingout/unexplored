@@ -1,9 +1,9 @@
 <div class="filtered">
     <a class="filteredby back" href="/browse" title="back to browsing">
         {% if page.type == "country" %}
-            Interesting places in <strong>{{ page.tag | replace:'United States','the United States'g | replace:'Czech Republic','the Czech Republic' }}</strong>
+            Interesting places in <strong>{{ page.title | replace:'United States','the United States' | replace:'Czech Republic','the Czech Republic' }}</strong>
         {% else %}
-            Filtered by {{ page.type }}: <strong>{{ page.tag }}</strong>
+            Filtered by {{ page.type }}: <strong>{{ page.title }}</strong>
         {% endif %}
     </a>
     <a href="/" class="close filteredby" title="remove the filter">&times;</a>
@@ -11,13 +11,7 @@
 </div>
 
 {% for post in site.posts %}
-    {% for author in post.by %}
-        {% if author == page.tag %}
-            {% include postshort.html %}
-        {% endif %}
-    {% endfor %}
-
-    {% if post.country == page.tag %}
+    {% if post.country == page.title %}
         {% include postshort.html %}
     {% endif %}
 {% endfor %}
