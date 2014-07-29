@@ -1,10 +1,11 @@
       <div id="footer">
-        <div class="bottom_menu">
-          <a href="/">HOME</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a href="/about/">ABOUT</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a href="/submit">SUBMIT</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a href="/browse/">BROWSE</a>
-        </div>
 
         <div class="subscribe">
-          <br /><a class="twittercolor" href="https://twitter.com/unXpl0red">twitter</a> &nbsp;&nbsp; <a class="facebookcolor" href="https://www.facebook.com/unexploredparadises">facebook</a> &nbsp;&nbsp; <a class="pinterestcolor" href="http://www.pinterest.com/unXplored/">pinterest</a> &nbsp;&nbsp; <a class="rsscolor" href="http://unexploredparadises.eu/feed.xml">RSS</a>
+          <br /><a class="twittercolor" href="https://twitter.com/unXpl0red">twitter</a> &nbsp;&nbsp; <a class="facebookcolor" href="https://www.facebook.com/unexploredparadises">facebook</a> &nbsp;&nbsp; <a class="pinterestcolor" href="http://www.pinterest.com/unXplored/">pinterest</a> <!-- &nbsp;&nbsp; <a class="rsscolor" href="http://unexploredparadises.eu/feed.xml">RSS</a> -->
+        </div>
+
+        <div class="bottom_menu">
+          <a href="/">HOME</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a href="/about/">ABOUT</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a href="/submit">SUBMIT</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a href="/browse/">BROWSE</a>
         </div>
 
         <div id="secondaryfooter">
@@ -14,6 +15,13 @@
             <strong>"off the beaten path" travel inspiration</strong>
           {% endif %}
         </div>
+
+        {% if page.title == 'unexplored paradises' %}
+        <div id="backlinks">
+          <a href="http://photoprobable.com/">Best Photography Sites</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+          <a href="http://www.coolphotoblogs.com/"><b>cool</b>photoblogs</a> - <a href="http://www.coolphotoblogs.com/profile27571">listed</a>
+        </div>
+        {% endif %}
       </div>
 
     </div>
