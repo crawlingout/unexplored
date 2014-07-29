@@ -55,10 +55,10 @@ I have never been to any desert but for some reason deserts fascinate me. The he
 
 {% assign image = '/i/israel/negev/desert-view.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/mockstar/233944328/in/set-72157594268518434">David Poe</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/mockstar/233944328/in/set-72157594268518434" %}
-{% assign imagealt = "Negev Desert, Israel" %}
-{% assign imageheight = 600 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/shankbone/3411769644/in/set-72157615777449283">David Shankbone</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/shankbone/3411769644/in/set-72157615777449283" %}
+{% assign imagealt = "" %}
+{% assign imageheight = false %}
 {% assign imagedesc = "" %}
 {% include image.html %}
 
