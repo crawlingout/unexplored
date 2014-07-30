@@ -1,0 +1,53 @@
+---
+layout: post
+title:  'Sovinec'
+date:   2014-07-30 20:00:00
+country: Czech Republic
+continent: Europe
+image: '/i/czech-republic/sovinec/castle-tower.jpg'
+imageby: 'photo <a href="http://www.bigstockphoto.com/image-2991269/stock-photo-castle-of-the-holy-order">siloto</a>'
+imagealt: "Sovinec, Czech Republic"
+imageheight: 530
+tags:
+---
+Sovinec is a beautiful castle with a fascinating history. It was built in the 14th century and served as an important Hussite stronghold in the 15th century. One of the richest Moravian leaders Jan starší Kobylka z Kobylího was forced to sell it to the German Knights Templar after the defeat in the Battle of the White Mountain and it was pillaged by the Danish army and sieged and captured by the Swedish army during the Thirty Years war.
+
+<!-- img -->
+{% assign image = '/i/czech-republic/sovinec/beautiful-castle.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageheight = 533 %}
+{% assign imagealt = "Sovinec, Czech Republic" %}
+{% assign imageby = 'photo <a href="http://commons.wikimedia.org/wiki/File:Hrad_Sovinec.jpg">Henych</a>' %}
+{% include image.html %}
+
+{% assign image = '/i/czech-republic/sovinec/castle-interior-old.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/infodad/1392396781">Petr Dadák</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/infodad/1392396781" %}
+{% assign imagealt = "Sovinec castle interior, Czech Republic" %}
+{% assign imageheight = 600 %}
+{% include image.html %}
+
+{% assign image = '/i/czech-republic/sovinec/castle-interior-chandelier.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/infodad/1393291752">Petr Dadák</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/infodad/1393291752" %}
+{% assign imagealt = "Sovinec castle interior, Czech Republic" %}
+{% assign imageheight = 600 %}
+{% include image.html %}
+
+{% assign image = '/i/czech-republic/sovinec/castle-interior-historical.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/infodad/1393285946">Petr Dadák</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/infodad/1393285946" %}
+{% assign imagealt = "Sovinec castle interior, Czech Republic" %}
+{% assign imageheight = 600 %}
+{% include image.html %}
+
+{% assign image = '/i/czech-republic/sovinec/castle.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/infodad/1392063505">Petr Dadák</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/infodad/1392063505" %}
+{% assign imagealt = "Sovinec, Czech Republic" %}
+{% assign imageheight = 600 %}
+{% include image.html %}
