@@ -4,7 +4,12 @@
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
     <link rel="shortcut icon" href="/i/favicon.ico" />
 
-    <title>{{ page.title }}{% if page.country %}, {{ page.country }}{% endif %}{% unless page.title == 'unexplored paradises | about' or  page.title == 'unexplored paradises | browse' or  page.title == 'unexplored paradises | submit' %} |  photos of extraordinary travel destinations{% endunless %}</title>
+    {% if page.title != 'Unexplored Paradises' %}
+        <title>{{ page.title }}{% if page.country %}, {{ page.country }}{% endif %}{% unless page.title contains 'Inspiration' or  page.title contains 'Browse' or  page.title contains 'Submit' %} | photos{% endunless %}</title>
+    {% else %}
+        <title>Photos of extraordinary travel destinations</title>
+    {% endif %}
+    
     <meta name="description" content="{{ site.description }}" />
     
     <meta content="width=device-width" name="viewport">
@@ -24,7 +29,7 @@
 
     <link href='/feed.xml' rel='alternate' type='application/atom+xml'>
 
-    {% if page.title == 'unexplored paradises' %}
+    {% if page.title == 'Unexplored Paradises' %}
     <meta name="p:domain_verify" content="f43d001389da6c3fdc0d72c5a8262f1a"/>
     {% endif %}
     
@@ -38,7 +43,7 @@
     {% else %}
     <meta property="og:image" content="{{ site.url }}/i/explore.jpg"/>
     {% endif %}
-    {% if page.title == 'unexplored paradises' %}
+    {% if page.title == 'Unexplored Paradises' %}
     <meta property="og:url" content="{{ site.url }}/"/>
     <meta property="og:type" content="website"/>
     {% else %}
