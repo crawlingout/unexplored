@@ -1,0 +1,62 @@
+---
+layout: post
+title:  'Bonnieux'
+date:   2014-08-01 20:00:00
+country: France
+continent: Europe
+tags:
+- Provence
+
+image: '/i/france/bonnieux/beautiful-village.jpg'
+imageby: 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/michalo/6052999896">Michal Osmenda</a>'
+imagelink: http://www.flickr.com/photos/michalo/6052999896
+imagealt: "Bonnieux, France"
+imageheight: 531
+imagedesc: ""
+---
+This village is on my list of places to visit in Provence not only because it is incredibly beautiful but also because it's dating back to Roman times. An added bonus is the fact that it sits opposite Mont Ventoux, one of the most grueling climbs in the Tour de France.
+
+{% assign image = '/i/france/bonnieux/old-village.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/myhsu/4818927396">Ming-yen Hsu</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/myhsu/4818927396" %}
+{% assign imagealt = "Bonnieux, France" %}
+{% assign imageheight = 532 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/france/bonnieux/mount-ventoux.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/arnaudabadie/9081496847">Arnaud Abadie</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/arnaudabadie/9081496847" %}
+{% assign imagealt = "A view from Mt. Ventoux" %}
+{% assign imageheight = 390 %}
+{% assign imagedesc = "A view from Mt. Ventoux." %}
+{% include image.html %}
+
+{% assign image = '/i/france/bonnieux/roman-bridge-pont-julien.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/decar66/10229210226">Salva Barbera</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/decar66/10229210226" %}
+{% assign imagealt = "Le Pont Julien, a Roman stone arch bridge, France" %}
+{% assign imageheight = 531 %}
+{% assign imagedesc = "Le Pont Julien, a Roman stone arch bridge." %}
+{% include image.html %}
+
+{% assign image = '/i/france/bonnieux/clauds.jpg' %}
+{% assign imagewidth = 600 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/fordbuchanan/7227349232">Ford Buchanan</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/fordbuchanan/7227349232" %}
+{% assign imagealt = "Bonnieux, France" %}
+{% assign imageheight = 800 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/france/bonnieux/vineyard.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/x1klima/14161287644">martin</a>' %}
+{% assign imagelink = "http://www.flickr.com/photos/x1klima/14161287644" %}
+{% assign imagealt = "Château la Canorgue" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "Château la Canorgue." %}
+{% include image.html %}
