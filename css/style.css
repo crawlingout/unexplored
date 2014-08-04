@@ -160,6 +160,11 @@ button::-moz-focus-inner { border: 0; }
     padding: 0;
 }
 
+.postshort.border {
+    border: 1px solid #eaeaea;
+    margin-bottom: 70px;
+}
+
 .title h2 {
     left: 0;
     margin: 0;
