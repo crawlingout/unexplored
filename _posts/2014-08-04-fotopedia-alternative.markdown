@@ -14,17 +14,25 @@ Not what you are looking for? Here is <strong>the list of Fotopedia alternatives
     <p style="margin-bottom: 10px;">
         <a href="https://bonjourn.al/">Bonjournal: A Simple Travel Journal App</a>
     </p>
+
     <p style="margin-bottom: 10px;">
         <a href="https://exposure.co/">Exposure: Create beautiful photo narratives</a>
     </p>
+
+    <p style="margin-bottom: 10px;">
+        <a href="https://www.storehouse.co/">Storehouse: visual storytelling</a>
+    </p>
+
     <p style="margin-bottom: 10px;">
         <a href="https://maptia.com/">Maptia: A beautiful way to tell stories about places</a>
     </p>
+
     <p style="margin-bottom: 10px;">
-        <a href=""></a>
+        <a href="">journi: Travel Blogging rediscovered</a>
     </p>
+
     <p style="margin-bottom: 10px;">
-        <a href=""></a>
+        <a href="http://cowbird.com/">Cowbird: a public library of human experience</a>
     </p>
 </div>
 
