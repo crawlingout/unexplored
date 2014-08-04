@@ -10,8 +10,23 @@ Obviously, I am not trying to build anything like Fotopedia here. This site is a
 
 Not what you are looking for? Here is <strong>the list of Fotopedia alternatives</strong> (although none can replace Fotopedia): 
 
-<a href="https://bonjourn.al/">Bonjournal: A Simple Travel Journal App</a>
+<div style="padding-left: 20px;">
+    <p style="margin-bottom: 10px;">
+        <a href="https://bonjourn.al/">Bonjournal: A Simple Travel Journal App</a>
+    </p>
+    <p style="margin-bottom: 10px;">
+        <a href="https://exposure.co/">Exposure: Create beautiful photo narratives</a>
+    </p>
+    <p style="margin-bottom: 10px;">
+        <a href="https://maptia.com/">Maptia: A beautiful way to tell stories about places</a>
+    </p>
+    <p style="margin-bottom: 10px;">
+        <a href=""></a>
+    </p>
+    <p style="margin-bottom: 10px;">
+        <a href=""></a>
+    </p>
+</div>
 
-<a href="https://exposure.co/">Exposure: Create beautiful photo narratives</a>
-
+<br />
 Please let me know in the discussion if you know about an alternative not listed here.
