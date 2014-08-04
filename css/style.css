@@ -179,9 +179,6 @@ button::-moz-focus-inner { border: 0; }
     width: 700px;
     height: 65px;
 }
-.title h2.dark a {
-    color: gray;
-}
 .post h2 {
     color: #808080;
     font-size: 25px;
