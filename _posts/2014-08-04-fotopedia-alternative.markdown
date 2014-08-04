@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fotopedia alternative?"
+title:  "Fotopedia alternatives?"
 date:   2014-08-03 20:00:00
 disqus: true
 ---
