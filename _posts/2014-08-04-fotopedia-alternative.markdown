@@ -34,6 +34,10 @@ Not what you are looking for? Here is <strong>the list of Fotopedia alternatives
     <p style="margin-bottom: 10px;">
         <a href="http://cowbird.com/">Cowbird: a public library of human experience</a>
     </p>
+
+    <p style="margin-bottom: 10px;">
+        <a href="http://www.google.com/culturalinstitute/project/world-wonders">Google's World Wonders Project</a>
+    </p>
 </div>
 
 <br />
