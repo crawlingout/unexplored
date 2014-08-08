@@ -39,4 +39,6 @@ Not what you are looking for? Here is <strong>the list of Fotopedia alternatives
 </div>
 
 <br />
+Photographers can use <a href="http://www.fotopediatoevernote.com/">Fotopedia to Evernote Importer</a> to sync their Fotopedia account with Evernote.
+
 Please let me know in the discussion if you know about an alternative not listed here.
