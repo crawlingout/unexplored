@@ -4,7 +4,7 @@ title:  "Fotopedia alternatives"
 date:   2014-08-03 20:00:00
 disqus: true
 ---
-Fotopedia is <a href="http://blog.fotopedia.com/fotopedia-shutdown/">shutting down</a>. It was a great site and I am sad that it's going to disappear. Here is <strong>the list of Fotopedia alternatives</strong> (although none can really replace Fotopedia): 
+Fotopedia is <a href="http://blog.fotopedia.com/fotopedia-shutdown/">shutting down</a>. It was a great site and I am sad that it's going to disappear. Here is <strong>the list of Fotopedia alternatives</strong> (although none of these can fully replace Fotopedia): 
 
 <div style="padding-left: 20px;">
     <p style="margin-bottom: 10px;">
