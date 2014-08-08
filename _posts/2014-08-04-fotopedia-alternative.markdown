@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Fotopedia alternatives?"
+title:  "Fotopedia alternatives"
 date:   2014-08-03 20:00:00
 disqus: true
 ---
-Fotopedia is <a href="http://blog.fotopedia.com/fotopedia-shutdown/">shutting down</a>. It was a great site and I am sad that it's going to disappear. But I admit upfront - I write this because I'm trying to get the attention of the photographers who used to publish at Fotopedia. They are now googling phrases like <i>"Fotopedia alternative"</i> or <i>"Fotopedia replacement"</i> and I hope they might consider publishing some of their photographs here at this site, admittedly a lot smaller, simpler and less ambitious than Fotopedia.
-
-Not what you are looking for? Here is <strong>the list of Fotopedia alternatives</strong> (although none can replace Fotopedia): 
+Fotopedia is <a href="http://blog.fotopedia.com/fotopedia-shutdown/">shutting down</a>. It was a great site and I am sad that it's going to disappear. Here is <strong>the list of Fotopedia alternatives</strong> (although none can really replace Fotopedia): 
 
 <div style="padding-left: 20px;">
     <p style="margin-bottom: 10px;">
@@ -41,4 +39,7 @@ Not what you are looking for? Here is <strong>the list of Fotopedia alternatives
 <br />
 You can also use <a href="http://www.fotopediatoevernote.com/">Fotopedia to Evernote Importer</a> to turn your Fotopedia data into Evernote notes and <a href="http://postach.io/">postach.io</a> to make a good looking website out of them.
 
+
 Please let me know in the discussion if you know about an alternative not listed here.
+
+And yes, I'm trying to get the attention of the photographers who used to publish at Fotopedia. They are now googling phrases like <i>"Fotopedia alternative"</i> or <i>"Fotopedia replacement"</i> and I hope they might consider publishing some of their photographs here at this site, admittedly a lot smaller, simpler and less ambitious than Fotopedia.
