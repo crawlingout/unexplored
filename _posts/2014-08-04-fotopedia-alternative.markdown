@@ -39,6 +39,6 @@ Not what you are looking for? Here is <strong>the list of Fotopedia alternatives
 </div>
 
 <br />
-Photographers can use <a href="http://www.fotopediatoevernote.com/">Fotopedia to Evernote Importer</a> to sync their Fotopedia account with Evernote.
+You can also use <a href="http://www.fotopediatoevernote.com/">Fotopedia to Evernote Importer</a> to turn your Fotopedia data into Evernote notes and <a href="http://postach.io/">postach.io</a> to make a good looking website out of them.
 
 Please let me know in the discussion if you know about an alternative not listed here.
