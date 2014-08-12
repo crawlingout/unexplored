@@ -167,7 +167,7 @@ button::-moz-focus-inner { border: 0; }
     font-size: 25px;
     font-weight: normal;
     line-height: 25px;
-    padding: 6px 10px 6px 30px;
+    padding: 6px 10px 5px 30px;
 }
 .title h2.white a {
     background: #000000;
