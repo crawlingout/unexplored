@@ -9,7 +9,7 @@ tags:
 
 image: '/i/france/bonnieux/beautiful-village.jpg'
 imageby: 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/michalo/6052999896">Michal Osmenda</a>'
-imagelink: http://www.flickr.com/photos/michalo/6052999896
+imagelink: 'http://farm7.staticflickr.com/6067/6052999896_9458a29dfb_b.jpg'
 imagealt: "Bonnieux, France"
 imageheight: 531
 imagedesc: ""
@@ -19,7 +19,7 @@ This village is on my list of places to visit in Provence not only because it is
 {% assign image = '/i/france/bonnieux/old-village.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/myhsu/4818927396">Ming-yen Hsu</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/myhsu/4818927396" %}
+{% assign imagelink = "http://farm5.staticflickr.com/4139/4818927396_9eaa627243_b.jpg" %}
 {% assign imagealt = "Bonnieux, France" %}
 {% assign imageheight = 532 %}
 {% assign imagedesc = "" %}
@@ -28,7 +28,7 @@ This village is on my list of places to visit in Provence not only because it is
 {% assign image = '/i/france/bonnieux/mount-ventoux.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/arnaudabadie/9081496847">Arnaud Abadie</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/arnaudabadie/9081496847" %}
+{% assign imagelink = "http://farm3.staticflickr.com/2814/9081496847_0dc9377fc4_h.jpg" %}
 {% assign imagealt = "A view from Mt. Ventoux" %}
 {% assign imageheight = 390 %}
 {% assign imagedesc = "A view from Mt. Ventoux." %}
@@ -37,7 +37,7 @@ This village is on my list of places to visit in Provence not only because it is
 {% assign image = '/i/france/bonnieux/roman-bridge-pont-julien.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/decar66/10229210226">Salva Barbera</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/decar66/10229210226" %}
+{% assign imagelink = "http://farm8.staticflickr.com/7382/10229210226_40310f3c24_b.jpg" %}
 {% assign imagealt = "Le Pont Julien, a Roman stone arch bridge, France" %}
 {% assign imageheight = 531 %}
 {% assign imagedesc = "Le Pont Julien, a Roman stone arch bridge." %}
@@ -46,7 +46,7 @@ This village is on my list of places to visit in Provence not only because it is
 {% assign image = '/i/france/bonnieux/clauds.jpg' %}
 {% assign imagewidth = 600 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/fordbuchanan/7227349232">Ford Buchanan</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/fordbuchanan/7227349232" %}
+{% assign imagelink = "http://farm6.staticflickr.com/5119/7227349232_d7db019b16_c.jpg" %}
 {% assign imagealt = "Bonnieux, France" %}
 {% assign imageheight = 800 %}
 {% assign imagedesc = "" %}
@@ -55,7 +55,7 @@ This village is on my list of places to visit in Provence not only because it is
 {% assign image = '/i/france/bonnieux/vineyard.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/x1klima/14161287644">martin</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/x1klima/14161287644" %}
+{% assign imagelink = "http://farm6.staticflickr.com/5510/14161287644_c93c5416eb_h.jpg" %}
 {% assign imagealt = "Château la Canorgue" %}
 {% assign imageheight = 534 %}
 {% assign imagedesc = "Château la Canorgue." %}

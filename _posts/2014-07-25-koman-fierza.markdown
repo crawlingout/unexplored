@@ -18,7 +18,7 @@ Koman and Fierza reservoirs are on my travel wish list because of the Koman-Fier
 {% assign image = '/i/albania/koman-fierza/beautiful-lake.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 3.0 Unported" href="http://creativecommons.org/licenses/by/3.0/deed.en">(<em>cc</em>)</a> <a href="http://en.wikipedia.org/wiki/File:2013-10-03_SH22,_Albania_0616.jpg">Tobias Klenze</a>' %}
-{% assign imagelink = false %}
+{% assign imagelink = 'http://upload.wikimedia.org/wikipedia/commons/2/22/2013-10-03_SH22%2C_Albania_0616.jpg' %}
 {% assign imagealt = "Fierza lake seen from the south, Albania" %}
 {% assign imageheight = 500 %}
 {% include image.html %}

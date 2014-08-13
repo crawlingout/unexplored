@@ -18,15 +18,15 @@ Friends who visited Albania told me that it's beautiful and a lot less touristy 
 {% assign image = '/i/albania/theth/mountain-view.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AThethiValley.jpg">User:Doron</a>' %}
-{% assign imagelink = false %}
+{% assign imagelink = 'http://upload.wikimedia.org/wikipedia/commons/8/83/ThethiValley.jpg' %}
 {% assign imagealt = "Theth Valley, a view from the pass on the Shkodra road, Albania" %}
 {% assign imageheight = 928%}
 {% include image.html %}
 
 {% assign image = '/i/albania/theth/beautiful-mountains.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File:Theth_Radohima_MajaArapit.jpg">Albinfo</a>' %}
-{% assign imagelink = false %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3ATheth_Radohima_MajaArapit.jpg">Albinfo</a>' %}
+{% assign imagelink = 'http://upload.wikimedia.org/wikipedia/commons/d/d8/Theth_Radohima_MajaArapit.jpg' %}
 {% assign imagealt = "Theth, Albania, with Maja Radohimës (left) and Maja Harapit (right)" %}
 {% assign imageheight = 567 %}
 {% include image.html %}
@@ -34,7 +34,7 @@ Friends who visited Albania told me that it's beautiful and a lot less touristy 
 {% assign image = '/i/albania/theth/mountain-range.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AThethi_Mountains_Panorama.jpg">AHHB6184</a>' %}
-{% assign imagelink = false %}
+{% assign imagelink = 'http://upload.wikimedia.org/wikipedia/commons/7/74/Thethi_Mountains_Panorama.jpg' %}
 {% assign imagealt = "Theth National Park, Prokletije, Albania" %}
 {% assign imageheight = 310 %}
 {% include image.html %}

@@ -21,6 +21,7 @@ Gýmeš is a ruin of a Gothic castle built in the 13th century. For some reason,
 {% assign imageheight = 517 %}
 {% assign imagealt = "Gýmeš, a ruin of a Gothic castle, Slovakia" %}
 {% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-65157364/stock-photo-ruin-of-castle-gymes">Vrabelpeter1</a>' %}
+{% assign imagelink = false %}
 {% include image.html %}
 
 <!-- img -->
@@ -29,6 +30,7 @@ Gýmeš is a ruin of a Gothic castle built in the 13th century. For some reason,
 {% assign imageheight = 533 %}
 {% assign imagealt = "Gýmeš, a ruin of a Gothic castle, Slovakia" %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AGymes_castle_ID_403-14431.JPG">Miroslav Svorc</a>' %}
+{% assign imagelink = 'http://upload.wikimedia.org/wikipedia/commons/6/61/Gymes_castle_ID_403-14431.JPG' %}
 {% include image.html %}
 
 <!-- img -->
@@ -37,4 +39,5 @@ Gýmeš is a ruin of a Gothic castle built in the 13th century. For some reason,
 {% assign imageheight = 396 %}
 {% assign imagealt = "Gýmeš, a ruin of a Gothic castle, Slovakia" %}
 {% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-53222248/stock-photo-ruins-of-castle-gymes-slovakia">TTstudio</a>' %}
+{% assign imagelink = false %}
 {% include image.html %}

@@ -21,7 +21,7 @@ Castel del Monte is a beautiful small medieval town located in the heart of Gran
 {% assign imageheight = 530 %}
 {% assign imagealt = "Castel del Monte, a medieval village in Italy" %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/davylandman/9775577202">Davy Landman</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/davylandman/9775577202" %}
+{% assign imagelink = "http://farm8.staticflickr.com/7324/9775577202_8eca266690_h.jpg" %}
 {% assign imagedesc = "" %}
 {% include image.html %}
 

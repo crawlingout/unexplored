@@ -20,7 +20,7 @@ Norway is in my travel wish list because I've never seen my brother more excited
 {% assign image = '/i/norway/svartisen-glacier/2.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/juliangalbert/">Julian-G. Albert</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/juliangalbert/9508386530" %}
+{% assign imagelink = "http://farm3.staticflickr.com/2869/9508386530_8b30e614a6_h.jpg" %}
 {% assign imagealt = "Svartisen glacier, Norway" %}
 {% assign imageheight = 450 %}
 {% assign imagedesc = "" %}
@@ -38,7 +38,7 @@ Norway is in my travel wish list because I've never seen my brother more excited
 {% assign image = '/i/norway/svartisen-glacier/3.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/juliangalbert/">Julian-G. Albert</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/juliangalbert/9508387740" %}
+{% assign imagelink = "http://farm6.staticflickr.com/5475/9508387740_7d7a725514_h.jpg" %}
 {% assign imagealt = "Svartisen glacier, Norway" %}
 {% assign imageheight = 450 %}
 {% assign imagedesc = "" %}

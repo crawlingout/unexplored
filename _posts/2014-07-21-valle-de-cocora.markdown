@@ -8,7 +8,7 @@ tags:
 
 image: '/i/colombia/valle-de-cocora/valley.jpg'
 imageby: 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/elisfanclub/6844848421">Eli Duke</a>'
-imagelink: http://www.flickr.com/photos/elisfanclub/6844848421
+imagelink: 'http://farm8.staticflickr.com/7196/6844848421_ec4caa4eba_b.jpg'
 imagealt: "Valle de Cocora, Colombia"
 imageheight: 534
 imagedesc: ""
@@ -27,7 +27,7 @@ The Cocora valley is located in the Central Cordillera of the Andean mountains. 
 {% assign image = '/i/colombia/valle-de-cocora/beautiful-valley.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/elisfanclub/6844873365">Eli Duke</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/elisfanclub/6844873365" %}
+{% assign imagelink = "http://farm8.staticflickr.com/7145/6844873365_14381c9c89_b.jpg" %}
 {% assign imagealt = "Valle de Cocora, Colombia" %}
 {% assign imageheight = 534 %}
 {% assign imagedesc = "" %}
@@ -36,7 +36,7 @@ The Cocora valley is located in the Central Cordillera of the Andean mountains. 
 {% assign image = '/i/colombia/valle-de-cocora/path-in-valley.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="https://flic.kr/p/dMdMRe">Stevan Nicholas</a>' %}
-{% assign imagelink = "https://flic.kr/p/dMdMRe" %}
+{% assign imagelink = "http://farm9.staticflickr.com/8073/8388019115_5a22a4e566_h.jpg" %}
 {% assign imagealt = "Valle de Cocora, Colombia" %}
 {% assign imageheight = 536 %}
 {% assign imagedesc = "" %}
@@ -45,7 +45,7 @@ The Cocora valley is located in the Central Cordillera of the Andean mountains. 
 {% assign image = '/i/colombia/valle-de-cocora/foggy-valley.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/cedriana/6821305520">cedriana</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/cedriana/6821305520" %}
+{% assign imagelink = "http://farm8.staticflickr.com/7058/6821305520_3da7321a1f_h.jpg" %}
 {% assign imagealt = "Valle de Cocora, Colombia" %}
 {% assign imageheight = 534 %}
 {% assign imagedesc = "" %}
@@ -54,7 +54,7 @@ The Cocora valley is located in the Central Cordillera of the Andean mountains. 
 {% assign image = '/i/colombia/valle-de-cocora/cow.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/elisfanclub/6844936919">Eli Duke</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/elisfanclub/6844936919" %}
+{% assign imagelink = "http://farm8.staticflickr.com/7024/6844936919_4f6ab7cfa3_b.jpg" %}
 {% assign imagealt = "Valle de Cocora, Colombia" %}
 {% assign imageheight = 534 %}
 {% assign imagedesc = "" %}
@@ -63,7 +63,7 @@ The Cocora valley is located in the Central Cordillera of the Andean mountains. 
 {% assign image = '/i/colombia/valle-de-cocora/paradise.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/evdaimon/8382576749">Axel Rouvin</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/evdaimon/8382576749" %}
+{% assign imagelink = "http://farm9.staticflickr.com/8049/8382576749_6d73c74ce6_h.jpg" %}
 {% assign imagealt = "Valle de Cocora, Colombia" %}
 {% assign imageheight = 534 %}
 {% assign imagedesc = "" %}

@@ -17,13 +17,14 @@ Sovinec is a beautiful castle with a fascinating history. It was built in the 14
 {% assign imagewidth = 800 %}
 {% assign imageheight = 533 %}
 {% assign imagealt = "Sovinec, Czech Republic" %}
-{% assign imageby = 'photo <a href="http://commons.wikimedia.org/wiki/File:Hrad_Sovinec.jpg">Henych</a>' %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AHrad_Sovinec.jpg">Henych</a>' %}
+{% assign imagelink = "http://upload.wikimedia.org/wikipedia/commons/a/a0/Hrad_Sovinec.jpg" %}
 {% include image.html %}
 
 {% assign image = '/i/czech-republic/sovinec/castle-interior-old.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/infodad/1392396781">Petr Dadák</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/infodad/1392396781" %}
+{% assign imagelink = "http://farm2.staticflickr.com/1333/1392396781_84b7b299c0_b.jpg" %}
 {% assign imagealt = "Sovinec castle interior, Czech Republic" %}
 {% assign imageheight = 600 %}
 {% include image.html %}
@@ -31,7 +32,7 @@ Sovinec is a beautiful castle with a fascinating history. It was built in the 14
 {% assign image = '/i/czech-republic/sovinec/castle-interior-chandelier.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/infodad/1393291752">Petr Dadák</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/infodad/1393291752" %}
+{% assign imagelink = "http://farm2.staticflickr.com/1062/1393291752_b9fc8bddab_b.jpg" %}
 {% assign imagealt = "Sovinec castle interior, Czech Republic" %}
 {% assign imageheight = 600 %}
 {% include image.html %}
@@ -39,7 +40,7 @@ Sovinec is a beautiful castle with a fascinating history. It was built in the 14
 {% assign image = '/i/czech-republic/sovinec/castle-interior-historical.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/infodad/1393285946">Petr Dadák</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/infodad/1393285946" %}
+{% assign imagelink = "http://farm2.staticflickr.com/1179/1393285946_b2f4abc37c_b.jpg" %}
 {% assign imagealt = "Sovinec castle interior, Czech Republic" %}
 {% assign imageheight = 600 %}
 {% include image.html %}
@@ -47,7 +48,7 @@ Sovinec is a beautiful castle with a fascinating history. It was built in the 14
 {% assign image = '/i/czech-republic/sovinec/castle.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/infodad/1392063505">Petr Dadák</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/infodad/1392063505" %}
+{% assign imagelink = "http://farm2.staticflickr.com/1023/1392063505_00e700dcfe_b.jpg" %}
 {% assign imagealt = "Sovinec, Czech Republic" %}
 {% assign imageheight = 600 %}
 {% include image.html %}

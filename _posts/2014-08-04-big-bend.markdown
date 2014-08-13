@@ -8,7 +8,7 @@ tags:
 
 image: '/i/united-states/big-bend/view.jpg'
 imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/atbaker/5577837179">Adam Baker</a>'
-imagelink: http://www.flickr.com/photos/atbaker/5577837179
+imagelink: 'http://farm6.staticflickr.com/5096/5577837179_b685896e7d_b.jpg'
 imagealt: "Big Bend, Texas"
 imageheight: 535
 imagedesc: ""
@@ -19,7 +19,7 @@ The region in the western part of Texas is in my travel bucket list because it i
 {% assign image = '/i/united-states/big-bend/awesome-view.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/gingersteve/4222979158/in/set-72157618442017336">Steve Davies</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/gingersteve/4222979158/in/set-72157618442017336" %}
+{% assign imagelink = "http://farm3.staticflickr.com/2610/4222979158_f91ffc7932_b.jpg" %}
 {% assign imagealt = "Big Bend, Texas" %}
 {% assign imageheight = 533 %}
 {% assign imagedesc = "" %}
@@ -28,7 +28,7 @@ The region in the western part of Texas is in my travel bucket list because it i
 {% assign image = '/i/united-states/big-bend/storm.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/gingersteve/3543874759/in/set-72157618442017336">Steve Davies</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/gingersteve/3543874759/in/set-72157618442017336" %}
+{% assign imagelink = "http://farm4.staticflickr.com/3334/3543874759_0a803d1496_b.jpg" %}
 {% assign imagealt = "Big Bend, Texas" %}
 {% assign imageheight = 533 %}
 {% assign imagedesc = "" %}
@@ -37,7 +37,7 @@ The region in the western part of Texas is in my travel bucket list because it i
 {% assign image = '/i/united-states/big-bend/chisos-mountains.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/cwsteeds/5079234096/in/set-72157624784777734">Clinton Steeds</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/cwsteeds/5079234096/in/set-72157624784777734" %}
+{% assign imagelink = "http://farm5.staticflickr.com/4154/5079234096_700136022f_b.jpg" %}
 {% assign imagealt = "The Chisos Mountains, Big Bend, Texas" %}
 {% assign imageheight = 531 %}
 {% assign imagedesc = "The Chisos Mountains." %}
@@ -46,7 +46,7 @@ The region in the western part of Texas is in my travel bucket list because it i
 {% assign image = '/i/united-states/big-bend/casa-grande-lost-mine-trail.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/cwsteeds/5079226964/in/set-72157624784777734">Clinton Steeds</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/cwsteeds/5079226964/in/set-72157624784777734" %}
+{% assign imagelink = "http://farm5.staticflickr.com/4147/5079226964_fd1716653f_b.jpg" %}
 {% assign imagealt = "Casa Grande from the Lost Mine Trail. Big Bend, Texas" %}
 {% assign imageheight = 531 %}
 {% assign imagedesc = "Casa Grande from the Lost Mine Trail." %}
@@ -55,7 +55,7 @@ The region in the western part of Texas is in my travel bucket list because it i
 {% assign image = '/i/united-states/big-bend/rain-desert.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/cleopold73/3685710828">Corey Leopold</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/cleopold73/3685710828" %}
+{% assign imagelink = "http://farm3.staticflickr.com/2641/3685710828_9ab14be153_b.jpg" %}
 {% assign imagealt = "Big Bend, Texas" %}
 {% assign imageheight = 514 %}
 {% assign imagedesc = "" %}
@@ -64,7 +64,7 @@ The region in the western part of Texas is in my travel bucket list because it i
 {% assign image = '/i/united-states/big-bend/south-rim.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/gingersteve/4222980476/in/set-72157618442017336">Steve Davies</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/gingersteve/4222980476/in/set-72157618442017336" %}
+{% assign imagelink = "http://farm3.staticflickr.com/2803/4222980476_b9427ec860_b.jpg" %}
 {% assign imagealt = "South Rim, Big Bend, Texas" %}
 {% assign imageheight = 526 %}
 {% assign imagedesc = "South Rim." %}
