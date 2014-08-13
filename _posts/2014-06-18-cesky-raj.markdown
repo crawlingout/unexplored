@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  'Český ráj (Bohemian Paradise)'
+title:  'Cesky raj (Bohemian Paradise)'
 date:   2014-06-18 20:00:00
 country: 'Czech Republic'
 continent: Europe
 image: '/i/czech-republic/cesky-raj/1.jpg'
 imageheight: 532
-imagealt: "Český ráj (Bohemian Paradise), Czech Republic"
+imagealt: "Cesky raj (Bohemian Paradise), Czech Republic"
 imageby: 'photo <a href="http://www.bigstockphoto.com/image-29886593/stock-photo-cesky-raj-sandstone-cliffs-prachovske-skaly">kubais</a>'
 imagedesc: ''
 tags:
@@ -18,7 +18,7 @@ A protected area about 90 kilometers north-east of Prague. I visited this place 
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a href="http://www.bigstockphoto.com/image-62673806/stock-photo-rock-town-in-bohemian-paradise">KoTangens</a>' %}
 {% assign imagelink = false %}
-{% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
+{% assign imagealt = "Cesky raj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 533 %}
 {% assign imagedesc = "" %}
 {% include image.html %}
@@ -26,26 +26,26 @@ A protected area about 90 kilometers north-east of Prague. I visited this place 
 {% assign image = '/i/czech-republic/cesky-raj/2.jpg' %}
 {% assign imagewidth = 534 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jirka_matousek/8456207136">Jirka Matousek</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/jirka_matousek/8456207136" %}
-{% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
+{% assign imagelink = "http://farm9.staticflickr.com/8091/8456207136_48a5c27d36_c.jpg" %}
+{% assign imagealt = "Cesky raj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 800 %}
 {% assign imagedesc = "" %}
 {% include image.html %}
 
 {% assign image = '/i/czech-republic/cesky-raj/5.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/foto-kouba/3874644311/in/set-72157622072540143">Jaroslav Kuba</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/foto-kouba/3874644311/in/set-72157622072540143" %}
-{% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/foto-kouba/3874644311/">Jaroslav Kuba</a>' %}
+{% assign imagelink = "http://farm3.staticflickr.com/2601/3874644311_185e95211f_b.jpg" %}
+{% assign imagealt = "Cesky raj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 529 %}
 {% assign imagedesc = "" %}
 {% include image.html %}
 
 {% assign image = '/i/czech-republic/cesky-raj/7.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jirka_matousek/8456201634/in/set-72157632715118389">Jirka Matousek</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/jirka_matousek/8456201634/in/set-72157632715118389" %}
-{% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jirka_matousek/8456201634/">Jirka Matousek</a>' %}
+{% assign imagelink = "http://farm9.staticflickr.com/8531/8456201634_69fd7e5e6a_h.jpg" %}
+{% assign imagealt = "Cesky raj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 534 %}
 {% assign imagedesc = "" %}
 {% include image.html %}
@@ -53,8 +53,8 @@ A protected area about 90 kilometers north-east of Prague. I visited this place 
 {% assign image = '/i/czech-republic/cesky-raj/4.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AHrubice_a_Trosky.jpg">Alofok</a>' %}
-{% assign imagelink = false %}
-{% assign imagealt = "Castle Hruba Skala, Český ráj (Bohemian Paradise), Czech Republic" %}
+{% assign imagelink = 'http://upload.wikimedia.org/wikipedia/commons/8/83/Hrubice_a_Trosky.jpg' %}
+{% assign imagealt = "Castle Hruba Skala, Cesky raj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 451 %}
 {% assign imagedesc = "Castle Hruba Skala." %}
 {% include image.html %}
@@ -62,8 +62,8 @@ A protected area about 90 kilometers north-east of Prague. I visited this place 
 {% assign image = '/i/czech-republic/cesky-raj/6.jpg' %}
 {% assign imagewidth = 534 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jirka_matousek/8455102119">Jirka Matousek</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/jirka_matousek/8455102119" %}
-{% assign imagealt = "Český ráj (Bohemian Paradise), Czech Republic" %}
+{% assign imagelink = "http://farm9.staticflickr.com/8508/8455102119_8ec902cfb3_c.jpg" %}
+{% assign imagealt = "Cesky raj (Bohemian Paradise), Czech Republic" %}
 {% assign imageheight = 800 %}
 {% assign imagedesc = "" %}
 {% include image.html %}

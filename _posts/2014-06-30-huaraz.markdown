@@ -8,7 +8,7 @@ tags:
 
 image: '/i/peru/huaraz/santa-cruz-trek.jpg'
 imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/fabulousfabs/6079525355">butforthesky.com</a>'
-imagelink: http://www.flickr.com/photos/fabulousfabs/6079525355
+imagelink: 'http://farm7.staticflickr.com/6087/6079525355_d3bc6cac1d_b.jpg'
 imagealt: "Santa Cruz trek, Huaraz, Peru"
 imagedesc: "Santa Cruz trek."
 imageheight: 600
@@ -28,7 +28,7 @@ Huaraz, a city in the heart of Cordiliera Blanca at an altitude greater than 300
 {% assign image = '/i/peru/huaraz/laguna-churup-trail.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/guellec31/7640177848">Léo Guellec</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/guellec31/7640177848" %}
+{% assign imagelink = "http://farm8.staticflickr.com/7272/7640177848_0126aaca27_b.jpg" %}
 {% assign imagealt = "Laguna Churup trail, Huaraz, Peru" %}
 {% assign imagedesc = "Laguna Churup trail." %}
 {% assign imageheight = 600 %}
@@ -37,7 +37,7 @@ Huaraz, a city in the heart of Cordiliera Blanca at an altitude greater than 300
 {% assign image = '/i/peru/huaraz/path-laguna-churup.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/guellec31/7677729354/in/set-72157630713415546">Léo Guellec</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/guellec31/7677729354/in/set-72157630713415546" %}
+{% assign imagelink = "http://farm9.staticflickr.com/8019/7677729354_3e5627a790_h.jpg" %}
 {% assign imagealt = "The path to Laguna Churup, Huaraz, Peru" %}
 {% assign imagedesc = "The path to Laguna Churup." %}
 {% assign imageheight = 449 %}
@@ -46,7 +46,7 @@ Huaraz, a city in the heart of Cordiliera Blanca at an altitude greater than 300
 {% assign image = '/i/peru/huaraz/laguna-churup.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/guellec31/7677866704/in/set-72157630713415546">Léo Guellec</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/guellec31/7677866704/in/set-72157630713415546" %}
+{% assign imagelink = "http://farm9.staticflickr.com/8145/7677866704_e4cfb14517_h.jpg" %}
 {% assign imagealt = "Laguna Churup, Huaraz, Peru" %}
 {% assign imagedesc = "Laguna Churup." %}
 {% assign imageheight = 449 %}
@@ -55,7 +55,7 @@ Huaraz, a city in the heart of Cordiliera Blanca at an altitude greater than 300
 {% assign image = '/i/peru/huaraz/valley.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/madeleine_h/10836799824">Madeleine Holland</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/madeleine_h/10836799824" %}
+{% assign imagelink = "http://farm4.staticflickr.com/3808/10836799824_248503d01f_b.jpg" %}
 {% assign imagealt = "The valley below Laguna 69, Huaraz, Peru" %}
 {% assign imagedesc = "The valley below Laguna 69." %}
 {% assign imageheight = 534 %}
@@ -64,7 +64,7 @@ Huaraz, a city in the heart of Cordiliera Blanca at an altitude greater than 300
 {% assign image = '/i/peru/huaraz/trail.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/madeleine_h/10836627335">Madeleine Holland</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/madeleine_h/10836627335" %}
+{% assign imagelink = "http://farm3.staticflickr.com/2824/10836627335_a5f9043d24_b.jpg" %}
 {% assign imagealt = "Laguna 69 trail, Huaraz, Peru" %}
 {% assign imagedesc = "Laguna 69 trail." %}
 {% assign imageheight = 534 %}
@@ -73,7 +73,7 @@ Huaraz, a city in the heart of Cordiliera Blanca at an altitude greater than 300
 {% assign image = '/i/peru/huaraz/flowers.jpg' %}
 {% assign imagewidth = 534 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/madeleine_h/10836624855">Madeleine Holland</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/madeleine_h/10836624855" %}
+{% assign imagelink = "http://farm8.staticflickr.com/7344/10836624855_004d3b34b8_c.jpg" %}
 {% assign imagealt = "Laguna 69 trail, Huaraz, Peru" %}
 {% assign imagedesc = "" %}
 {% assign imageheight = 800 %}
@@ -82,7 +82,7 @@ Huaraz, a city in the heart of Cordiliera Blanca at an altitude greater than 300
 {% assign image = '/i/peru/huaraz/adventure.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jeffreywarren/246917278">Jeff Warren</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/jeffreywarren/246917278" %}
+{% assign imagelink = "http://farm1.staticflickr.com/79/246917278_d76a8cfa7c_b.jpg" %}
 {% assign imagealt = "Huaraz, Peru" %}
 {% assign imagedesc = "" %}
 {% assign imageheight = 600 %}
@@ -91,7 +91,7 @@ Huaraz, a city in the heart of Cordiliera Blanca at an altitude greater than 300
 {% assign image = '/i/peru/huaraz/lake-69.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/jeffreywarren/246875326/in/set-72157594290248505">Jeff Warren</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/jeffreywarren/246875326/in/set-72157594290248505" %}
+{% assign imagelink = "http://farm1.staticflickr.com/83/246875326_40e8675b7f_b.jpg" %}
 {% assign imagealt = "Lake 69 near Huaraz, Peru" %}
 {% assign imageheight = 600 %}
 {% assign imagedesc = "" %}
@@ -100,7 +100,7 @@ Huaraz, a city in the heart of Cordiliera Blanca at an altitude greater than 300
 {% assign image = '/i/peru/huaraz/hike.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/johnjodeery/8161339723">johnjodeery</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/johnjodeery/8161339723" %}
+{% assign imagelink = "http://farm9.staticflickr.com/8201/8161339723_aa603ce5db_h.jpg" %}
 {% assign imagealt = "Huaraz, Peru" %}
 {% assign imagedesc = "" %}
 {% assign imageheight = 531 %}

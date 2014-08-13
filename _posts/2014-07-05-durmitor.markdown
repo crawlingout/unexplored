@@ -19,15 +19,15 @@ I am not sure Durmitor National Park can be described as "off the beaten path" b
 {% assign image = '/i/montenegro/durmitor/beautiful-mountains.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/tobishoots/9972682776">Mecklreiter</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/tobishoots/9972682776" %}
+{% assign imagelink = "http://farm8.staticflickr.com/7402/9972682776_89d1834107_h.jpg" %}
 {% assign imagealt = "Durmitor National Park, Montenegro" %}
 {% assign imageheight = 534 %}
 {% include image.html %}
 
 {% assign image = '/i/montenegro/durmitor/mountain-lake.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/kpi/2866939363">Pieter Schepens</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/kpi/2866939363" %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> Pieter Schepens' %}
+{% assign imagelink = false %}
 {% assign imagealt = "Durmitor National Park, Montenegro" %}
 {% assign imageheight = 532 %}
 {% include image.html %}
@@ -35,23 +35,24 @@ I am not sure Durmitor National Park can be described as "off the beaten path" b
 {% assign image = '/i/montenegro/durmitor/cow.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/tobishoots/9972714753">Mecklreiter</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/tobishoots/9972714753" %}
+{% assign imagelink = "http://farm6.staticflickr.com/5478/9972714753_7274cd7739_b.jpg" %}
 {% assign imagealt = "Durmitor National Park, Montenegro" %}
 {% assign imageheight = 534 %}
 {% include image.html %}
 
-{% assign image = '/i/montenegro/durmitor/forrest.jpg' %}
+{% assign image = '/i/montenegro/durmitor/river.jpg' %}
 {% assign imagewidth = 800 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/kpi/2866937689/in/set-72157607354614510">Pieter Schepens</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/kpi/2866937689/in/set-72157607354614510" %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/lonelyplanetexchange/1444357264/">Michael Tyler</a>' %}
+{% assign imagelink = "http://farm2.staticflickr.com/1107/1444357264_2b1dfca123_b.jpg" %}
 {% assign imagealt = "Durmitor National Park, Montenegro" %}
-{% assign imageheight = 532 %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
 {% include image.html %}
 
 {% assign image = '/i/montenegro/durmitor/cows.jpg' %}
 {% assign imagewidth = 681 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/restlessglobetrotter/3925599744">Jason Rogers</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/restlessglobetrotter/3925599744" %}
+{% assign imagelink = "http://farm3.staticflickr.com/2440/3925599744_ee933bd7a6_b.jpg" %}
 {% assign imagealt = "Durmitor National Park, Montenegro" %}
 {% assign imageheight = 1024 %}
 {% include image.html %}
@@ -59,7 +60,7 @@ I am not sure Durmitor National Park can be described as "off the beaten path" b
 {% assign image = '/i/montenegro/durmitor/cottage.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/yves_g/8033909180">Yves G</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/yves_g/8033909180" %}
+{% assign imagelink = "http://farm9.staticflickr.com/8309/8033909180_0854d990fa_b.jpg" %}
 {% assign imagealt = "Durmitor National Park, Montenegro" %}
 {% assign imageheight = 523 %}
 {% include image.html %}
@@ -67,7 +68,7 @@ I am not sure Durmitor National Park can be described as "off the beaten path" b
 {% assign image = '/i/montenegro/durmitor/remote-mountains.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/tobishoots/9972685846">Mecklreiter</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/tobishoots/9972685846" %}
+{% assign imagelink = "http://farm3.staticflickr.com/2862/9972685846_8b26fc897c_b.jpg" %}
 {% assign imagealt = "Durmitor National Park, Montenegro" %}
 {% assign imageheight = 534 %}
 {% include image.html %}

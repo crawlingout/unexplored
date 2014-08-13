@@ -38,7 +38,7 @@ This fortress located in the National Park of the Sierra de Irta was built in th
 {% assign image = '/i/spain/castillo-de-xivert/4.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/adelosrm/12935208145">Aureliano</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/adelosrm/12935208145" %}
+{% assign imagelink = "http://farm8.staticflickr.com/7301/12935208145_416d000bc0_h.jpg" %}
 {% assign imagealt = "Castillo de Xivert, Spain" %}
 {% assign imageheight = 534 %}
 {% assign imagedesc = "" %}
@@ -47,7 +47,7 @@ This fortress located in the National Park of the Sierra de Irta was built in th
 {% assign image = '/i/spain/castillo-de-xivert/5.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/adelosrm/12935180415">Aureliano</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/adelosrm/12935180415" %}
+{% assign imagelink = "http://farm3.staticflickr.com/2838/12935180415_206f8b5f58_h.jpg" %}
 {% assign imagealt = "Castillo de Xivert, Spain" %}
 {% assign imageheight = 491 %}
 {% assign imagedesc = "" %}

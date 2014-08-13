@@ -9,7 +9,7 @@ tags:
 
 image: '/i/france/gordes/village.jpg'
 imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/andylawson/6064593795/in/set-72157627482611318">Andrew Lawson</a>'
-imagelink: http://www.flickr.com/photos/andylawson/6064593795/in/set-72157627482611318
+imagelink: 'http://farm7.staticflickr.com/6068/6064593795_9b79522e82_b.jpg'
 imagealt: "Gordes, Provence, France"
 imageheight: 534
 imagedesc: ""
@@ -19,7 +19,7 @@ I've never been to Provence, but I adore Paul Cézanne and Vincent van Gogh. Pro
 {% assign image = '/i/france/gordes/3.jpg' %}
 {% assign imagewidth = 534 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/aschaf/4830721110/in/set-72157624460926371">Andrea Schaffer</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/aschaf/4830721110/in/set-72157624460926371" %}
+{% assign imagelink = "http://farm5.staticflickr.com/4141/4830721110_08c383cb11_b.jpg" %}
 {% assign imagealt = "Gordes, Provence, France" %}
 {% assign imageheight = 801 %}
 {% assign imagedesc = "" %}
@@ -28,7 +28,7 @@ I've never been to Provence, but I adore Paul Cézanne and Vincent van Gogh. Pro
 {% assign image = '/i/france/gordes/4.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/aschaf/4830162231/in/set-72157624460926371">Andrea Schaffer</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/aschaf/4830162231/in/set-72157624460926371" %}
+{% assign imagelink = "http://farm5.staticflickr.com/4143/4830162231_2591369439_b.jpg" %}
 {% assign imagealt = "Gordes, Provence, France" %}
 {% assign imageheight = 534 %}
 {% assign imagedesc = "" %}
@@ -37,7 +37,7 @@ I've never been to Provence, but I adore Paul Cézanne and Vincent van Gogh. Pro
 {% assign image = '/i/france/gordes/5.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/andylawson/6065137552/in/set-72157627482611318">Andrew Lawson</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/andylawson/6065137552/in/set-72157627482611318" %}
+{% assign imagelink = "http://farm7.staticflickr.com/6063/6065137552_8b246fe279_b.jpg" %}
 {% assign imagealt = "Gordes, Provence, France" %}
 {% assign imageheight = 534 %}
 {% assign imagedesc = "" %}
@@ -46,7 +46,7 @@ I've never been to Provence, but I adore Paul Cézanne and Vincent van Gogh. Pro
 {% assign image = '/i/france/gordes/6.jpg' %}
 {% assign imagewidth = 534%}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/nonuou/8053119984">nonuou</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/nonuou/8053119984" %}
+{% assign imagelink = "http://farm9.staticflickr.com/8031/8053119984_649e4a607d_c.jpg" %}
 {% assign imagealt = "Gordes, Provence, France" %}
 {% assign imageheight = 712 %}
 {% assign imagedesc = "" %}
@@ -55,7 +55,7 @@ I've never been to Provence, but I adore Paul Cézanne and Vincent van Gogh. Pro
 {% assign image = '/i/france/gordes/7.jpg' %}
 {% assign imagewidth = 534 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/couleurlavande/6172949462">Couleur Lavande</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/couleurlavande/6172949462" %}
+{% assign imagelink = "http://farm7.staticflickr.com/6162/6172949462_41dd4ff58c_z.jpg" %}
 {% assign imagealt = "Gordes, Provence, France" %}
 {% assign imageheight = 534 %}
 {% assign imagedesc = "" %}
@@ -64,7 +64,7 @@ I've never been to Provence, but I adore Paul Cézanne and Vincent van Gogh. Pro
 {% assign image = '/i/france/gordes/beautiful-village.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/myhsu/4800931475/in/set-72157624377155315">Ming-yen Hsu</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/myhsu/4800931475/in/set-72157624377155315" %}
+{% assign imagelink = "http://farm5.staticflickr.com/4137/4800931475_58ea633baa_b.jpg" %}
 {% assign imagealt = "Gordes, Provence, France" %}
 {% assign imageheight = 532 %}
 {% assign imagedesc = "" %}

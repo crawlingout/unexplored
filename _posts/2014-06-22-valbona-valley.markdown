@@ -7,7 +7,7 @@ continent: Europe
 image: '/i/albania/valbona-valley/2.jpg'
 imageby: 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/strobose/8941755219">Stef & K</a>'
 imagedesc: ''
-imagelink: "http://www.flickr.com/photos/strobose/8941755219"
+imagelink: "http://farm8.staticflickr.com/7327/8941755219_ac75d808cc_h.jpg"
 imagealt: "Valbona river, Valbona National Park, Prokletije, Albania"
 imageheight: 534
 tags:
@@ -28,7 +28,7 @@ Valbona Valley National Park is the gem of Prokletije ("Cursed") Mountains and o
 {% assign image = '/i/albania/valbona-valley/3.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3A2013-10-05_Valbona%2C_Albania_8806.jpg">Tobias Klenze</a>' %}
-{% assign imagelink = false %}
+{% assign imagelink = 'http://upload.wikimedia.org/wikipedia/commons/7/7a/2013-10-05_Valbona%2C_Albania_8806.jpg' %}
 {% assign imagealt = "View of the Valbona valley from the Valbona-Teth path" %}
 {% assign imageheight = 533 %}
 {% assign imagedesc = "" %}
