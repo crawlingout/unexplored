@@ -7,7 +7,7 @@ continent: South America
 tags:
 image: '/i/venezuela/canaima-national-park/la-gran-sabana.jpg'
 imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/inti/3102164531">Inti</a>'
-imagelink: http://www.flickr.com/photos/inti/3102164531
+imagelink: 'http://farm4.staticflickr.com/3247/3102164531_1dcc572196_b.jpg'
 imagealt: "La Gran Sabana. Canaima National Park, Venezuela"
 imageheight: 534
 imagedesc: "La Gran Sabana."
@@ -27,7 +27,7 @@ Canaima National Park in the Gran Sabana region of Venezuela, one of the largest
 {% assign image = '/i/venezuela/canaima-national-park/canaima-lagoon.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/aeruginosa/377400313/in/set-72157594565930934">Emiliano Ricci</a>' %}
-{% assign imagelink = "http://www.flickr.com/photos/aeruginosa/377400313/in/set-72157594565930934" %}
+{% assign imagelink = "http://farm1.staticflickr.com/160/377400313_e5db398a57_b.jpg" %}
 {% assign imagealt = "Canaima National Park, Venezuela" %}
 {% assign imageheight = 600 %}
 {% assign imagedesc = "Lagoon of Canaima." %}
@@ -36,16 +36,16 @@ Canaima National Park in the Gran Sabana region of Venezuela, one of the largest
 {% assign image = '/i/venezuela/canaima-national-park/salto-angel.jpg' %}
 {% assign imagewidth = 800 %}
 {% assign imageby = 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="https://flic.kr/p/fA36MT">Francisco Becerro</a>' %}
-{% assign imagelink = "https://flic.kr/p/fA36MT" %}
+{% assign imagelink = "http://farm4.staticflickr.com/3684/9574165321_e65b6a21ef_b.jpg" %}
 {% assign imagealt = "Angel Falls (Salto Ángel), the highest waterfall in the world. Canaima National Park, Venezuela" %}
 {% assign imageheight = 571 %}
 {% assign imagedesc = "Salto Ángel (Angel Falls)." %}
 {% include image.html %}
 
 {% assign image = '/i/venezuela/canaima-national-park/kukenan-tepui.jpg' %}
-{% assign imagewidth = false %}
-{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File:Kukenan_Roraima_GS.jpg#mediaviewer/File:Kukenan_Roraima_GS.jpg">Paolo Costa Baldi</a>' %}
-{% assign imagelink = "http://commons.wikimedia.org/wiki/File:Kukenan_Roraima_GS.jpg#mediaviewer/File:Kukenan_Roraima_GS.jpg" %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File:Kukenan_Roraima_GS.jpg">Paolo Costa Baldi</a>' %}
+{% assign imagelink = "http://upload.wikimedia.org/wikipedia/commons/b/be/Kukenan_Roraima_GS.jpg" %}
 {% assign imagealt = "Kukenan Tepui. Canaima National Park, Venezuela" %}
 {% assign imageheight = 495 %}
 {% assign imagedesc = "Kukenan Tepui." %}
