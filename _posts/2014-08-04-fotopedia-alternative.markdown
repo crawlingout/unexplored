@@ -36,7 +36,7 @@ Fotopedia is <a href="http://blog.fotopedia.com/fotopedia-shutdown/">shutting do
     </p>
 
     <p style="margin-bottom: 10px;">
-        <a href="https://www.worldly.com">Worldly</a> - still invite-only (2014/08/15), but it looks promising; thanks for letting me know, OneMore
+        <a href="https://www.worldly.com">Worldly</a> - invite-only (2014/08/15), but it looks promising; thanks for inviting me:-)
     </p>
 </div>
 
