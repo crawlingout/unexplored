@@ -34,6 +34,10 @@ Fotopedia is <a href="http://blog.fotopedia.com/fotopedia-shutdown/">shutting do
     <p style="margin-bottom: 10px;">
         <a href="http://www.google.com/culturalinstitute/project/world-wonders">Google's World Wonders Project</a>
     </p>
+
+    <p style="margin-bottom: 10px;">
+        <a href="https://www.worldly.com">Worldly</a> - still invite-only (2014/08/15), but it looks promising (thanks, OneMore).
+    </p>
 </div>
 
 <br />
