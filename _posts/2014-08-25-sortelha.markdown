@@ -1,0 +1,62 @@
+---
+layout: post
+title:  'Sortelha'
+date:   2014-08-25 10:00:00
+country: Portugal
+continent: Europe
+tags:
+
+image: '/i/portugal/sortelha/castle.jpg'
+imageby: 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/mrconguito/1388524642">Pedro Dias</a>'
+imagelink: http://www.flickr.com/photos/mrconguito/1388524642
+imagealt: "Castelo de Sortelha, Portugal"
+imageheight: 482
+imagedesc: "Castelo de Sortelha."
+---
+Sortelha is a quaint village with a medieval castle built at the time of the Reconquista on top of a rocky hill overlooking the valley of Riba-Côa, passage area between the Iberian Meseta and Cova da Beira.
+
+<!-- img -->
+{% assign image = '/i/portugal/sortelha/village.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/plugman/4534376738">Javier Habladorcito</a>' %}
+{% assign imagelink = "http://farm3.staticflickr.com/2729/4534376738_982a4445e6_b.jpg" %}
+{% assign imagealt = "Sortelha, Portugal" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/portugal/sortelha/castle-ruin.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/plugman/4534331770">Javier Habladorcito</a>' %}
+{% assign imagelink = "http://farm5.staticflickr.com/4061/4534331770_7b41a86539_b.jpg" %}
+{% assign imagealt = "Sortelha, Portugal" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/portugal/sortelha/Antigo-Hospital-da-Misericordia-de-Sortelha.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AAntigo_Hospital_da_Miseric%C3%B3rdia_de_Sortelha.jpg">Nmmacedo</a>' %}
+{% assign imagelink = "http://upload.wikimedia.org/wikipedia/commons/9/92/Antigo_Hospital_da_Miseric%C3%B3rdia_de_Sortelha.jpg" %}
+{% assign imagealt = "Antigo Hospital da Misericórdia de Sortelha, Portugal" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "Antigo Hospital da Misericórdia de Sortelha." %}
+{% include image.html %}
+
+{% assign image = '/i/portugal/sortelha/Aldeia-de-Sortelha.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File%3AAldeia_de_Sortelha.jpg">Nmmacedo</a>' %}
+{% assign imagelink = "http://upload.wikimedia.org/wikipedia/commons/b/b9/Aldeia_de_Sortelha.jpg" %}
+{% assign imagealt = "Sortelha, Portugal" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/portugal/sortelha/castelo-sortelha.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-ShareAlike 3.0 Unported" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en">(<em>cc</em>)</a> <a href="http://commons.wikimedia.org/wiki/File:Nt-castelo-sortelha3.jpg">Nuno Tavares</a>' %}
+{% assign imagelink = "http://upload.wikimedia.org/wikipedia/commons/5/5a/Nt-castelo-sortelha3.jpg" %}
+{% assign imagealt = "Sortelha, Portugal" %}
+{% assign imageheight = 600 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
