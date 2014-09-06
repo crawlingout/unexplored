@@ -1,0 +1,52 @@
+---
+layout: post
+title:  'Glen Coe'
+date:   2014-08-27 20:00:00
+country: Scotland
+continent: Europe
+tags:
+
+image: '/i/scotland/glen-coe/beautiful.jpg'
+imageby: 'photo <a href="http://www.bigstockphoto.com/image-66267949/stock-photo-scenic-scottish-highlands">Jeni Foto</a>'
+imagelink: false
+imagealt: ""
+imageheight: 533
+imagedesc: ""
+---
+Glen Coe is a spectacular glen of volcanic origins in the Highlands of Scotland. This area is a paradise for walkers and climbers in all seasons. It is often considered one of the most beautiful places in Scotland.
+
+{% assign image = '/i/scotland/glen-coe/green.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/rifca/4920213120">Rifca Peters</a>' %}
+{% assign imagelink = "http://farm5.staticflickr.com/4101/4920213120_6af365d56b_b.jpg" %}
+{% assign imagealt = "" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/scotland/glen-coe/in-winter-spectacular.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/arran_moffat/9394988437">Arran Moffat</a>' %}
+{% assign imagelink = "http://farm8.staticflickr.com/7363/9394988437_b0c2410f17_h.jpg" %}
+{% assign imagealt = "" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/scotland/glen-coe/in-winter-awesome.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/arran_moffat/9397762504">Arran Moffat</a>' %}
+{% assign imagelink = "http://farm3.staticflickr.com/2882/9397762504_bc4be13ce6_h.jpg" %}
+{% assign imagealt = "" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
+
+{% assign image = '/i/scotland/glen-coe/in-winter.jpg' %}
+{% assign imagewidth = 800 %}
+{% assign imageby = 'photo <a title="License: Attribution-NoDerivs 2.0 Generic" href="https://creativecommons.org/licenses/by-nd/2.0/">(<em>cc</em>)</a> <a href="https://flic.kr/p/dmeUP2">Seo J Kim</a>' %}
+{% assign imagelink = "http://farm9.staticflickr.com/8051/8105325247_8bcc31140a_h.jpg" %}
+{% assign imagealt = "" %}
+{% assign imageheight = 534 %}
+{% assign imagedesc = "" %}
+{% include image.html %}
