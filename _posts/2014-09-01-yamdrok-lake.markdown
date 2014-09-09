@@ -27,7 +27,7 @@ Yamdrok Lake is one of the largest lakes in Tibet. It is over 72 km long. The go
 {% assign image = '/i/tibet/yamdrok-lake/mountain-lake.jpg' %}
 {% assign imagewidth = 681 %}
 {% assign imageheight = 1024 %}
-{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/14541393@N03/5280102633">melanie_ko</a>' %}
+{% assign imageby = 'photo <a title="License: Attribution 2.0 Generic" href="https://creativecommons.org/licenses/by/2.0/">(<em>cc</em>)</a> <a href="https://flic.kr/p/93zUyi">melanie_ko</a>' %}
 {% assign imagelink = "http://farm6.staticflickr.com/5242/5280102633_b11010581d_b.jpg" %}
 {% assign imagealt = "Yamdrok Lake, Tibet" %}
 {% assign imagedesc = "" %}
