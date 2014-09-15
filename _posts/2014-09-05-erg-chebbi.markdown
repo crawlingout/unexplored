@@ -13,7 +13,7 @@ imageheight: 532
 imagedesc: ""
 ---
 
-Erg Chebbi is one of Morocco's two Saharan ergs - large seas of dunes formed by wind-blown sand. The dunes reach a height of up to 150 meters and stretch for many kilometers. This is a region on nomad Berbers
+Erg Chebbi is one of Morocco's two Saharan ergs - large seas of dunes formed by wind-blown sand. The dunes reach a height of up to 150 meters and stretch for many kilometers. This is a region on nomad Berbers.
 
 {% assign image = '/i/morocco/erg-chebbi/tuareg-in-desert.jpg' %}
 {% assign imagewidth = 800 %}
