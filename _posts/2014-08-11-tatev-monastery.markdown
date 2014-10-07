@@ -13,7 +13,7 @@ imagealt: "Tatev Monastery, Armenia"
 imageheight: 531
 imagedesc: ""
 ---
-The 9th-century monastery standing on the edge of a deep gorge of the Vorotan River is in my travel bucket list because it's really old, beautiful, and has an interesting history. It survived earthquakes and invasions. In the 14th and 15th centuries it hosted one of the most important Armenian medieval universities, the University of Tatev.
+The 9th-century monastery standing on the edge of a deep gorge of the Vorotan River is on my travel bucket list because it's really old, beautiful, and has an interesting history. It survived earthquakes and invasions. In the 14th and 15th centuries it hosted one of the most important Armenian medieval universities, the University of Tatev.
 
 <!-- img -->
 {% assign image = '/i/armenia/tatev-monastery/view.jpg' %}

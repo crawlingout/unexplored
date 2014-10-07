@@ -13,7 +13,7 @@ imageheight: 471
 imagedesc: ""
 ---
 
-Eilean Donan Castle, a picturesque castle founded in the 13th century on a tidal island surrounded by a majestic scenery of western Highlands. One of the most iconic places in Scotland.
+Eilean Donan Castle, a picturesque castle founded in the 13th century on a tidal island surrounded by majestic scenery of western Highlands. This is one of the most iconic places in Scotland.
 
 {% assign image = '/i/scotland/eilan-donan-castle/chateau.jpg' %}
 {% assign imagewidth = 800 %}

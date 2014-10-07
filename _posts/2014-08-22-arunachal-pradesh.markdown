@@ -13,7 +13,7 @@ imagealt: "Sela Lake, Arunachal Pradesh, India"
 imageheight: 532
 imagedesc: "Sela Lake."
 ---
-Arunachal Pradesh, the ‘Land of Dawn-lit Mountains’, is India’s wildest and least explored state. Most of Arunachal Pradesh is covered by the Himalayas. This remote and until recently quite inaccessible land is in my travel bucket list because of it's picturesque mountains, tranquil lakes and Buddhist monasteries.
+Arunachal Pradesh, the ‘Land of Dawn-lit Mountains’ is India’s wildest and least explored state. Most of Arunachal Pradesh is covered by the Himalayas. This remote and until recently, quite inaccessible land is on my travel bucket list because of its picturesque mountains, tranquil lakes and Buddhist monasteries.
 
 <!-- img -->
 {% assign image = '/i/india/arunachal-pradesh/bumla-pass.jpg' %}

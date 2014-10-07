@@ -13,7 +13,7 @@ imagealt: "Big Bend, Texas"
 imageheight: 535
 imagedesc: ""
 ---
-The region in the western part of Texas is in my travel bucket list because it is sparsely populated, arid, and rugged. Big Bend National Park is composed mostly of desert and it's one of the largest, most remote, and least-visited national parks in the US. The diversity of its plants, animals, and geology makes it fascinating.
+The region in the western part of Texas is in my travel bucket list because it is sparsely populated, arid, and rugged. Big Bend National Park is composed mostly of desert and it's one of the largest, most remote, and least-visited national parks in the US. The diversity of its plants, animals and geology makes it fascinating.
 
 <!-- img -->
 {% assign image = '/i/united-states/big-bend/awesome-view.jpg' %}

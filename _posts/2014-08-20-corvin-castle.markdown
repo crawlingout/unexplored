@@ -10,8 +10,7 @@ imagealt: "Corvin Castle, Romania"
 imageby: 'photo <a href="http://www.bigstockphoto.com/image-62647379/stock-photo-corvin-castle">dinosmichail</a>'
 tags:
 ---
-
-Corvin Castle, also known as Hunyad Castle or Hunedoara Castle, is a Gothic-Renaissance castle in Transylvania, the region of Romania not only associated with vampires but also known for the scenic beauty of its Carpathian landscape. The beautiful castle features tall and strong defence towers, an interior yard and a drawbridge.
+Corvin Castle, also known as Hunyad Castle or Hunedoara Castle, is a Gothic-Renaissance castle in Transylvania, the region of Romania not only associated with vampires but also known for the scenic beauty of its Carpathian landscape. The beautiful castle features tall, strong defense towers, an interior yard and a drawbridge.
 
 <!-- img -->
 {% assign image = '/i/romania/corvin-castle/courtyard-of-castle.jpg' %}
