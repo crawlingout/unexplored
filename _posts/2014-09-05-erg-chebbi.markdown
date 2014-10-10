@@ -7,7 +7,7 @@ continent: Africa
 
 image: '/i/morocco/erg-chebbi/oasis.jpg'
 imageby: 'photo <a title="License: Attribution-ShareAlike 2.0 Generic" href="https://creativecommons.org/licenses/by-sa/2.0/">(<em>cc</em>)</a> <a href="http://www.flickr.com/photos/rosino/84514009">Rosino</a>'
-imagelink: 'http://farm1.staticflickr.com/41/84514009_1c89e51b78_b.jpg'
+imagelink: 'http://upload.wikimedia.org/wikipedia/commons/1/1f/Erg_Chebbi_Maroc.jpg'
 imagealt: "Erg Chebbi, Morocco"
 imageheight: 532
 imagedesc: ""
