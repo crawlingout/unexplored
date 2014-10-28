@@ -481,8 +481,8 @@ button::-moz-focus-inner { border: 0; }
     display: block;
     font-size: 20px;
     min-height: 160px;
-    padding: 20px 0;
-    width: 300px;
+    padding: 20px 5px;
+    width: 260px;
 }
 
 .pad {
@@ -490,7 +490,7 @@ button::-moz-focus-inner { border: 0; }
 }
 
 .gray {
-    color: #656565;
+    color: #a4a4a4;
 }
 
 .big {
@@ -505,8 +505,9 @@ button::-moz-focus-inner { border: 0; }
 }
 
 .smaller {
-    font-size: 14px;
     color: #656565;
+    font-family: verdana,arial,sans-serif;
+    font-size: 15px;
 }
 
 .minigap {
