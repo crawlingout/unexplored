@@ -508,12 +508,12 @@ button::-moz-focus-inner { border: 0; }
 
 .small {
     color: gray;
-    font-size: 16px;
+    font-size: 13px;
     line-height: 25px;
 }
 
 .smaller {
-    color: #656565;
+    color: #4f4f4f;
     font-family: verdana,arial,sans-serif;
     font-size: 15px;
 }
