@@ -477,7 +477,6 @@ button::-moz-focus-inner { border: 0; }
 }
 
 .ad {
-    border: 1px solid #dddddd;
     display: block;
     font-size: 20px;
     margin-bottom: 30px;
@@ -491,10 +490,6 @@ button::-moz-focus-inner { border: 0; }
 
 .ad img {
     width: 100%;
-}
-
-.pad {
-    padding: 5px 20px;
 }
 
 .gray {
