@@ -47,7 +47,7 @@
     <meta property="og:url" content="{{ site.url }}/"/>
     <meta property="og:type" content="website"/>
     {% else %}
-    <meta property="og:url" content="{{ site.url }}{{ page.url }}/"/>
+    <meta property="og:url" content="{{ site.url }}{{ page.url | replace: '/index.html','' }}/"/>
     <meta property="og:type" content="article"/>
     {% endif %}
 
