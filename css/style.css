@@ -477,47 +477,23 @@ button::-moz-focus-inner { border: 0; }
 }
 
 .ad {
-    display: block;
-    font-size: 20px;
-    margin-bottom: 30px;
-    min-height: 160px;
     width: 260px;
 }
 
-.addcontent {
-    padding: 20px 5px;
-}
-
 .ad img {
-    width: 100%;
+    width: 150px;
 }
 
 .gray {
     color: #a4a4a4;
 }
 
-.big {
-    font-size: 26px;
-    margin: 2px 0;
-}
-
-.small {
-    color: gray;
-    font-size: 13px;
-    line-height: 25px;
-}
-
-.smaller {
-    color: #4f4f4f;
-    font-family: verdana,arial,sans-serif;
-    font-size: 15px;
-}
-
 .smallest {
     color: #656565;
     font-family: arial,sans-serif;
-    font-size: 17px;
+    font-size: 13px;
     line-height: 25px;
+    margin-top: 12px;
 }
 
 .minigap {
