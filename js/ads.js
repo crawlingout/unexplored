@@ -8,7 +8,7 @@ var onetravel = '<a href="http://click.linksynergy.com/fs-bin/click?id=hMT*QUxbG
 var insert_ad = document.getElementById('insert_ad');
 
 var d = new Date();
-var day = d.getDay();console.log(day);
+var day = d.getDay();
 
 if (day % 2) {
     insert_ad.innerHTML = travelation;
