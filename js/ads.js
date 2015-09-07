@@ -15,7 +15,7 @@ var ads = [
 '<a href="http://www.amazon.com/gp/product/B00IMOB5SW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IMOB5SW&linkCode=as2&tag=simplyeasy-20&linkId=244P3Z2RN4YEUFRE"><img style="padding-left: 30px;width: 160px;" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IMOB5SW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=simplyeasy-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=simplyeasy-20&l=as2&o=1&a=B00IMOB5SW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br><br><span style="font-size: 13px;font-weight: bold;line-height: 20px;">Buy <a href="http://www.amazon.com/gp/product/B00IMOB5SW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IMOB5SW&linkCode=as2&tag=simplyeasy-20&linkId=ZAMPCMYCOAJEEMNA">Nikon D4S (Full 1080p HD Video)</a></span><img src="http://ir-na.amazon-adsystem.com/e/ir?t=simplyeasy-20&l=as2&o=1&a=B00IMOB5SW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />',
 
 // GoPro HERO4 Session
-'<a style="display: block; height: 130px;" href="http://www.amazon.com/gp/product/B010H05JMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010H05JMQ&linkCode=as2&tag=simplyeasy-20&linkId=IZDIJKIEOWSII2M2"><img style="width: 160px;" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010H05JMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=simplyeasy-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=simplyeasy-20&l=as2&o=1&a=B010H05JMQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br><span style="font-size: 13px;font-weight: bold;">Buy <a href="http://www.amazon.com/gp/product/B010H05JMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010H05JMQ&linkCode=as2&tag=simplyeasy-20&linkId=2KCJ7APTGRTYMUMC">GoPro HERO4 Session</a></span><img src="http://ir-na.amazon-adsystem.com/e/ir?t=simplyeasy-20&l=as2&o=1&a=B010H05JMQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />'
+'<a style="display: block; height: 140px;" href="http://www.amazon.com/gp/product/B010H05JMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010H05JMQ&linkCode=as2&tag=simplyeasy-20&linkId=IZDIJKIEOWSII2M2"><img style="width: 175px;" border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010H05JMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=simplyeasy-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=simplyeasy-20&l=as2&o=1&a=B010H05JMQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br><span style="font-size: 14px;font-weight: bold;">Buy <a href="http://www.amazon.com/gp/product/B010H05JMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010H05JMQ&linkCode=as2&tag=simplyeasy-20&linkId=2KCJ7APTGRTYMUMC">GoPro HERO4 Session</a></span><img src="http://ir-na.amazon-adsystem.com/e/ir?t=simplyeasy-20&l=as2&o=1&a=B010H05JMQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />'
 ];
 
 /**
@@ -27,7 +27,7 @@ function getRandomInt(min, max) {
 }
 
 var number_of_ads = ads.length;
-var ad = getRandomInt(0, number_of_ads-1);ad = 3;
+var ad = getRandomInt(0, number_of_ads-1);
 var insert_ad = document.getElementById('insert_ad');
 
 insert_ad.innerHTML = ads[ad];
