@@ -197,9 +197,10 @@ button::-moz-focus-inner { border: 0; }
 }
 
 #menu a {
-    color: #6D6D6D;
+    color: #6d6d6d;
     display: block;
     padding: 20px 30px;
+    text-transform: uppercase;
 }
 
 .subscribe {
