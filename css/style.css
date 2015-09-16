@@ -115,7 +115,9 @@ button::-moz-focus-inner { border: 0; }
 }
 
 #head {
-    margin: 40px 0 30px;
+    margin: 105px 0 30px;
+    position: fixed;
+    width: 300px;
 }
 
 #head h1 {
@@ -213,7 +215,7 @@ button::-moz-focus-inner { border: 0; }
 }
 
 .postshort {
-    margin: 0 0 35px;
+    margin: 35px 0 0;
     padding: 0 0 10px;
 }
 
@@ -490,7 +492,7 @@ button::-moz-focus-inner { border: 0; }
     padding-top: 15px;
 }
 
-@media screen and (max-height: 520px) {
+@media screen and (max-height: 620px) {
     #ad {
         display: none;
     }
